@@ -35,10 +35,10 @@ http://103.229.254.25:7001/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" tvg-chno="6" group-title="Entertainment",Duronto TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-name="BOISHAKHI TV" tvg-logo="hhttps://image.pngaaa.com/565/2833565-middle.png" tvg-chno="7" group-title="Entertainment",BOISHAKHI TV (Server-1)
+#EXTINF:-1 tvg-id="7" tvg-name="BOISHAKHI TV" tvg-logo="https://image.pngaaa.com/565/2833565-middle.png" tvg-chno="7" group-title="Entertainment",BOISHAKHI TV (Server-1)
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-name="BOISHAKHI TV" tvg-logo="hhttps://image.pngaaa.com/565/2833565-middle.png" tvg-chno="8" group-title="Entertainment",BOISHAKHI TV (Server-2)
+#EXTINF:-1 tvg-id="8" tvg-name="BOISHAKHI TV" tvg-logo="https://image.pngaaa.com/565/2833565-middle.png" tvg-chno="8" group-title="Entertainment",BOISHAKHI TV (Server-2)
 http://103.229.254.25:7001/play/a067/index.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="BANGLAVISION" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png" tvg-chno="9" group-title="Entertainment",BANGLAVISION
@@ -146,7 +146,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-vid
 #EXTINF:-1 tvg-id="30-2" tvg-name="MASSRANGA HD (server-2)" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png/revision/latest?cb=20230512073857" tvg-chno="30-2" group-title="Entertainment",MASSRANGA HD
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1 tvg-id="31" tvg-name="MYTV HD" tvg-logo="https://i.imgur.com/475qK5T.png" tvg-chno="31" group-title="Entertainment",MYTV HD
+#EXTINF:-1 tvg-id="31" tvg-name="MY TV HD" tvg-logo="https://cdn.brandfetch.io/idblg5nzY2/w/180/h/180/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" tvg-chno="31" group-title="Entertainment",MY TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="32" tvg-name="MOVI BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSft1qOGmVozsewyCfFO9wDqdNgnnTnOyUOb2Pr-HvXvg&s" tvg-chno="32" group-title="Entertainment",MOVI BANGLA
@@ -329,7 +329,7 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1446015
 #EXTINF:-1 tvg-id="79" tvg-name="Zoom" tvg-logo="https://s3.aynaott.com/storage/bb1e93cd63ca86130fe6f66393b7497b" tvg-chno="79" group-title="Entertainment",Zoom 
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-id="80" tvg-name="Hindi Movie Classic 24" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084 tvg-chno="79" group-title="Entertainment",Hindi Movie Classic
+#EXTINF:-1 tvg-id="80" tvg-name="Hindi Movie Classic" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" tvg-chno="79" group-title="Entertainment",Hindi Movie Classic
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
 #EXTINF:-1 tvg-id="81" tvg-name="Cartoon Network" tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb" tvg-chno="81" group-title="Kids",Cartoon Network
