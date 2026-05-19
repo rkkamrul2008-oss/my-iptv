@@ -320,7 +320,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1 tvg-id="77-1" tvg-name="ZB Cinema" tvg-logo="https://th.bing.com/th/id/OIP.mT4jGL123UNat3EraUUmcwAAAA?w=217&h=180&c=7&r=0&o=7&pid=1.7&rm=3" tvg-chno="77-1" group-title="Entertainment",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
-#EXTINF:-1 tvg-id="77-2" tvg-name="ZB Cinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png" tvg-chno="77-2" group-title="Entertainment",ZB Cinema
+#EXTINF:-1 tvg-id="77-2" tvg-name="ZB Cinema" tvg-logo="https://th.bing.com/th/id/OIP.mT4jGL123UNat3EraUUmcwAAAA?w=217&h=180&c=7&r=0&o=7&pid=1.7&rm=3" tvg-chno="77-2" group-title="Entertainment",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="78" tvg-name="ZEE BOLLY WOOD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg" tvg-chno="78" group-title="Entertainment",ZEE BOLLY WOOD HD
