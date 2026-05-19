@@ -62,16 +62,16 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-vid
 #EXTINF:-1 tvg-id="14" tvg-name="CHANNEL 9" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" tvg-chno="14" group-title="Entertainment",CHANNEL 9 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
-#EXTINF:-1 tvg-id="15" tvg-name="DEPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" tvg-chno="15" group-title="Entertainment",DEPTO TV (Server-1)
+#EXTINF:-1 tvg-id="15" tvg-name="DEPTO TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" tvg-chno="15" group-title="Entertainment",DEPTO TV (Server-1)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
-#EXTINF:-1 tvg-id="15-1" tvg-name="DEPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" tvg-chno="15-1" group-title="Entertainment",DEPTO TV (Server-2)
+#EXTINF:-1 tvg-id="15-1" tvg-name="DEPTO TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" tvg-chno="15-1" group-title="Entertainment",DEPTO TV (Server-2)
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
-#EXTINF:-1 tvg-id="15-2" tvg-name="DEPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" tvg-chno="15-2" group-title="Entertainment",DEPTO TV (Server-3)
+#EXTINF:-1 tvg-id="15-2" tvg-name="DEPTO TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" tvg-chno="15-2" group-title="Entertainment",DEPTO TV (Server-3)
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:-1 tvg-id="15-3" tvg-name="DEPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" tvg-chno="15-3" group-title="Entertainment",DEPTO TV (Server-4)
+#EXTINF:-1 tvg-id="15-3" tvg-name="DEPTO TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" tvg-chno="15-3" group-title="Entertainment",DEPTO TV (Server-4)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-id="16-1" tvg-name="DBC NEWS" tvg-logo="https://logodix.com/logo/1738603.png" tvg-chno="16-1" group-title="Entertainment",DBC NEWS (server-1)
@@ -155,7 +155,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="Madani Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYskEmZeqE3ES3_ft4px15u1A57YADnucUs8o4KnyugQ&s" tvg-chno="33" group-title="Entertainment",Madani Tv
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
-#EXTINF:-1 tvg-id="34" tvg-name="NEWS24 LIVE" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png " tvg-chno="34" group-title="Entertainment",NEWS24 LIVE
+#EXTINF:-1 tvg-id="34" tvg-name="NEWS24 LIVE" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png" tvg-chno="34" group-title="Entertainment",NEWS24 LIVE
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 #EXTINF:-1 tvg-id="35-1" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" tvg-chno="35-1" group-title="Entertainment",NTV (server-1)
@@ -371,6 +371,11 @@ http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="93" tvg-name="Screem" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" tvg-chno="93" group-title="Entertainment",Screem
 https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
 
+#EXTINF:-1 tvg-id="94" tvg-name="Tsports HD" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.bESWAGbW0_4vxCRzeTalygHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" tvg-chno="94" group-title="Entertainment",Tsports HD
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="95" tvg-name="Star Movie HD" tvg-logo="https://images.seeklogo.com/logo-png/26/1/star-movies-logo-png_seeklogo-268247.png" tvg-chno="95" group-title="Entertainment",Star Movie HD
+http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
           
 
 
