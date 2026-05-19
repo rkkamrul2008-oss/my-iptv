@@ -191,8 +191,11 @@ https://tvsen6.aynaott.com/satv/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="Sangeet Bangla" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b8/Sangeet_Bangla_logo_%282009%29.png" tvg-chno="41" group-title="Entertainment",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/1143_2.m3u8
 
-#EXTINF:-1 tvg-id="42" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-chno="42" group-title="Entertainment",Star Jalsha HD
+#EXTINF:-1 tvg-id="42-1" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-chno="42-1" group-title="Entertainment",Star Jalsha HD
 https://tvsen3.aynascope.net/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="42-2" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" tvg-chno="42-2" group-title="Entertainment",Star Jalsha HD
+http://tvn1.chowdhury-shaheb.com/starjalsha/index.m3u8
 
 #EXTINF:-1 tvg-id="43-1" tvg-name="SRK TV (server-1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjL3FI5iEf2BEt5zhaLUWmgULsfvsn5vj16OUVMQsHTw&s" tvg-chno="43-1" group-title="Entertainment",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
@@ -320,7 +323,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1 tvg-id="77-1" tvg-name="ZB Cinema" tvg-logo="https://th.bing.com/th/id/OIP.mT4jGL123UNat3EraUUmcwAAAA?w=217&h=180&c=7&r=0&o=7&pid=1.7&rm=3" tvg-chno="77-1" group-title="Entertainment",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
-#EXTINF:-1 tvg-id="77-2" tvg-name="ZB Cinema" tvg-logo="https://th.bing.com/th/id/OIP.mT4jGL123UNat3EraUUmcwAAAA?w=217&h=180&c=7&r=0&o=7&pid=1.7&rm=3" tvg-chno="77-2" group-title="Entertainment",ZB Cinema
+#EXTINF:-1 tvg-id="77-2" tvg-name="ZB Cinema" tvg-logo="https://th.bing.com/th/id/OIP.mT4jGL123UNat3EraUUmcwAAAA?w=217&h=180&c=7&r=0&o=7&pid=1.7&rm=3" tvg-chno="77-1" tvg-chno="77-2" group-title="Entertainment",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="78" tvg-name="ZEE BOLLY WOOD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg" tvg-chno="78" group-title="Entertainment",ZEE BOLLY WOOD HD
