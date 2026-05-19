@@ -260,7 +260,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="HINDI HITS HDMK SIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png" tvg-chno="60" group-title="Entertainment",HINDI HITS HDMK SIX
 https://cdn-3.pishow.tv/live/1253/master.m3u8
 
-#EXTINF:-1 tvg-id="61" tvg-name="MBC TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png" tvg-chno="61" group-title="Entertainment",MBC TV
+#EXTINF:-1 tvg-id="61" tvg-name="MBC TV" tvg-logo="https://e7.pngegg.com/pngimages/37/769/png-clipart-mbc-bollywood-television-channel-logo-bolliwood-love-purple.png" tvg-chno="61" group-title="Entertainment",MBC TV
 http://93.184.10.248/MBCBollywood/index.m3u8
 
 #EXTINF:-1 tvg-id="62" tvg-name="Music Mastii" tvg-logo="https://boisedev.com/wp-content/uploads/2025/08/caldwell-startup-turns-music-lessons-into-a-game-for-kids-Screenshot-2025-08-2-696x365.png" tvg-chno="62" group-title="Entertainment",Music Mastii
