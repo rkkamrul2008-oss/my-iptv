@@ -62,6 +62,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-vid
 #EXTINF:-1 tvg-id="14" tvg-name="CHANNEL 9" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" tvg-chno="14" group-title="Entertainment",CHANNEL 9 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
+#EXTINF:-1 tvg-id="14-1" tvg-name="CHANNEL 9" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" tvg-chno="14-1" group-title="Entertainment",CHANNEL 9 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=2202800.m3u8
+
 #EXTINF:-1 tvg-id="15" tvg-name="DEPTO TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" tvg-chno="15" group-title="Entertainment",DEPTO TV (Server-1)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
@@ -157,6 +160,9 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 
 #EXTINF:-1 tvg-id="34" tvg-name="NEWS24 LIVE" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png" tvg-chno="34" group-title="Entertainment",NEWS24 LIVE
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+#EXTINF:-1 tvg-id="34-1" tvg-name="NEWS24 LIVE" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png" tvg-chno="34-1" group-title="Entertainment",NEWS24 LIVE
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-video=3224800.m3u8
 
 #EXTINF:-1 tvg-id="35-1" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" tvg-chno="35-1" group-title="Entertainment",NTV (server-1)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
@@ -305,6 +311,9 @@ http://maxotts.maxdigitaltv.com/x-media/C73/master.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="SONY SPORTS 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiEtTNPAJFAMlR9TzbtOh8TRfmyU33ITQh72qI4tKv3w&s" tvg-chno="71" group-title="Entertainment",SONY SPORTS 5 HD
 http://maxotts.maxdigitaltv.com/x-media/C61/master.m3u8
 
+#EXTINF:-1 tvg-id="71-1" tvg-name="SONY SPORTS 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiEtTNPAJFAMlR9TzbtOh8TRfmyU33ITQh72qI4tKv3w&s" tvg-chno="71-1" group-title="Entertainment",SONY SPORTS 5 HD
+http://103.99.249.139/sonyten3/index.m3u8
+
 #EXTINF:-1 tvg-id="72" tvg-name="SPORTS 2 HD" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png" tvg-chno="72" group-title="Entertainment",SPORTS 2 HD
 http://185.98.211.8:81/sport2/index.m3u8?token=test
 
@@ -377,9 +386,57 @@ https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
 #EXTINF:-1 tvg-id="94" tvg-name="Tsports HD" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.bESWAGbW0_4vxCRzeTalygHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" tvg-chno="94" group-title="Entertainment",Tsports HD
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="94-1" tvg-name="Tsports HD BD" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.bESWAGbW0_4vxCRzeTalygHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" tvg-chno="94-1" group-title="Entertainment",Tsports HD BD
+http://103.59.176.72:8083/live1/video.m3u8?token=123
+
 #EXTINF:-1 tvg-id="95" tvg-name="Star Movie HD" tvg-logo="https://images.seeklogo.com/logo-png/26/1/star-movies-logo-png_seeklogo-268247.png" tvg-chno="95" group-title="Entertainment",Star Movie HD
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
-          
 
+#EXTINF:-1 tvg-id="96" tvg-name="Star Plus HD" tvg-logo="https://www.pngfind.com/pngs/m/328-3289830_star-plus-logo-png-star-plus-hd-india.png" tvg-chno="96" group-title="Entertainment",Star Plus HD
+http://103.253.18.58:8000/play/a00l
 
+#EXTINF:-1 tvg-id="97" tvg-name="Star Bharat" tvg-logo="https://www.pngitem.com/pimgs/m/3-33128_star-bharat-graphic-design-hd-png-download.png" tvg-chno="97" group-title="Entertainment",Star Bharat
+http://103.253.18.58:8000/play/a00u
+
+#EXTINF:-1 tvg-id="98" tvg-name="Star Gold HD" tvg-logo="https://www.kindpng.com/picc/m/356-3567507_star-gold-channel-logo-hd-png-download.png" tvg-chno="98" group-title="Entertainment",Star Gold HD
+http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="99" tvg-name="Star Gold 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSHO4MHgh73TDbSQOuK0tRIvrVyZ1VVE9XlQ&s" tvg-chno="99" group-title="Entertainment",Star Gold 2
+http://103.253.18.58:8000/play/a00r
+
+#EXTINF:-1 tvg-id="100" tvg-name="Star Gold Romance" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Star_Gold_Romance.svg" tvg-chno="100" group-title="Entertainment",Star Gold Romance
+http://103.253.18.58:8000/play/a017
+
+#EXTINF:-1 tvg-id="101" tvg-name="Star Gold Thrills" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg" tvg-chno="101" group-title="Entertainment",Star Gold Thrills
+http://103.253.18.58:8000/play/a00o
+
+#EXTINF:-1 tvg-id="102" tvg-name="Star Maa Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg" tvg-chno="102" group-title="Entertainment",Star Maa Movies
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8
+
+#EXTINF:-1 tvg-id="103" tvg-name="Amar Bangla" tvg-logo="https://m.media-amazon.com/images/I/71Et8Ve0gGL.png" tvg-chno="103" group-title="Entertainment",Amar Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="104" tvg-name="Sony Max 2" tvg-logo="https://www.tvchannellists.com/wiki/images/a/ae/Sony_Max_2.png" tvg-chno="104" group-title="Entertainment",Sony Max 2
+http://149.71.34.166:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-id="105" tvg-name="FIFA +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FIFA%2B.svg/960px-FIFA%2B.svg.png" tvg-chno="105" group-title="Entertainment",FIFA +
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="106" tvg-name="Originals" tvg-logo="  " tvg-chno="106" group-title="Entertainment",Originals
+https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8
+
+#EXTINF:-1 tvg-id="107" tvg-name="Zee Cinema HD" tvg-logo="https://images.seeklogo.com/logo-png/30/1/zee-cinema-logo-png_seeklogo-304935.png" tvg-chno="107" group-title="Entertainment",Zee Cinema HD
+http://103.99.249.139/zeecinema/index.m3u8
+
+#EXTINF:-1 tvg-id="108" tvg-name="BollyFlix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0kbSu77xmfokCTIf2wSjz7OQdzmMKVvUYBQ&s" tvg-chno="108" group-title="Entertainment",BollyFlix
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
+
+#EXTINF:-1 tvg-id="109" tvg-name="AAKASH AATH" tvg-logo="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/aakash-aath-tv-logo.png" tvg-chno="109" group-title="Entertainment",AAKASH AATH
+https://cdn-4.pishow.tv/live/969/master.m3u8
+
+#EXTINF:-1 tvg-id="110" tvg-name="Zee 24 Ghanta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Zee_24_Ghanta_2025.svg/960px-Zee_24_Ghanta_2025.svg.png" tvg-chno="110" group-title="Entertainment",Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+
+#EXTINF:-1 tvg-id="111" tvg-name="Peace TV Bangla" tvg-logo="https://banner2.cleanpng.com/20180624/yux/kisspng-peace-tv-bangla-youtube-television-channel-5b2f5cc5f0f302.9663932315298305979869.jpg" tvg-chno="111" group-title="Entertainment",Peace TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 
