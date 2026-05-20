@@ -125,6 +125,9 @@ https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1 tvg-id="25-2" tvg-name="GAZI TV (Server-2)" tvg-logo="https://s3.aynaott.com/storage/417a833f6d83021c99bfc3d4176610f4" tvg-chno="25-2" group-title="Entertainment",GAZI TV
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="25-3" tvg-name="GAZI TV (Server-3)" tvg-logo="https://s3.aynaott.com/storage/417a833f6d83021c99bfc3d4176610f4" tvg-chno="25-3" group-title="Entertainment",GAZI TV
+http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+
 #EXTINF:-1 tvg-id="26" tvg-name="G SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png" tvg-chno="26" group-title="Entertainment",G SERIES
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
@@ -437,10 +440,8 @@ https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="110" tvg-name="Peace TV Bangla" tvg-logo="https://banner2.cleanpng.com/20180624/yux/kisspng-peace-tv-bangla-youtube-television-channel-5b2f5cc5f0f302.9663932315298305979869.jpg" tvg-chno="110" group-title="Entertainment",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="111" tvg-name="Zee Bollywood" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Zee_Bollywood_2025.svg/960px-Zee_Bollywood_2025.svg.png" tvg-chno="111" group-title="Entertainment",Zee Bollywood
+http://149.71.34.166:8000/play/a01q/index.m3u8
 
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="113" tvg-name="Probashi TV" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.L5y39PLc3ng8orh7y6LUAgHaGl?rs=1&pid=ImgDetMain&o=7&rm=3" tvg-chno="112" group-title="Entertainment",Probashi TV
+http://158.69.24.53:8080/probashi_tv/index.m3u8
