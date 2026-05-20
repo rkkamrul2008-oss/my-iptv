@@ -410,33 +410,37 @@ http://103.253.18.58:8000/play/a017
 #EXTINF:-1 tvg-id="101" tvg-name="Star Gold Thrills" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg" tvg-chno="101" group-title="Entertainment",Star Gold Thrills
 http://103.253.18.58:8000/play/a00o
 
-#EXTINF:-1 tvg-id="102" tvg-name="Star Maa Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg" tvg-chno="102" group-title="Entertainment",Star Maa Movies
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/maamovies_live_https/index.m3u8
-
-#EXTINF:-1 tvg-id="103" tvg-name="Amar Bangla" tvg-logo="https://m.media-amazon.com/images/I/71Et8Ve0gGL.png" tvg-chno="103" group-title="Entertainment",Amar Bangla
+#EXTINF:-1 tvg-id="102" tvg-name="Amar Bangla" tvg-logo="https://m.media-amazon.com/images/I/71Et8Ve0gGL.png" tvg-chno="102" group-title="Entertainment",Amar Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="104" tvg-name="Sony Max 2" tvg-logo="https://www.tvchannellists.com/wiki/images/a/ae/Sony_Max_2.png" tvg-chno="104" group-title="Entertainment",Sony Max 2
+#EXTINF:-1 tvg-id="103" tvg-name="Sony Max 2" tvg-logo="https://www.tvchannellists.com/wiki/images/a/ae/Sony_Max_2.png" tvg-chno="103" group-title="Entertainment",Sony Max 2
 http://149.71.34.166:8000/play/a00z/index.m3u8
 
-#EXTINF:-1 tvg-id="105" tvg-name="FIFA +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FIFA%2B.svg/960px-FIFA%2B.svg.png" tvg-chno="105" group-title="Entertainment",FIFA +
+#EXTINF:-1 tvg-id="104" tvg-name="FIFA +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FIFA%2B.svg/960px-FIFA%2B.svg.png" tvg-chno="104" group-title="Entertainment",FIFA +
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
 
-#EXTINF:-1 tvg-id="106" tvg-name="Originals" tvg-logo="  " tvg-chno="106" group-title="Entertainment",Originals
+#EXTINF:-1 tvg-id="105" tvg-name="Originals" tvg-logo="  " tvg-chno="105" group-title="Entertainment",Originals
 https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8
 
-#EXTINF:-1 tvg-id="107" tvg-name="Zee Cinema HD" tvg-logo="https://images.seeklogo.com/logo-png/30/1/zee-cinema-logo-png_seeklogo-304935.png" tvg-chno="107" group-title="Entertainment",Zee Cinema HD
+#EXTINF:-1 tvg-id="106" tvg-name="Zee Cinema HD" tvg-logo="https://images.seeklogo.com/logo-png/30/1/zee-cinema-logo-png_seeklogo-304935.png" tvg-chno="106" group-title="Entertainment",Zee Cinema HD
 http://103.99.249.139/zeecinema/index.m3u8
 
-#EXTINF:-1 tvg-id="108" tvg-name="BollyFlix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0kbSu77xmfokCTIf2wSjz7OQdzmMKVvUYBQ&s" tvg-chno="108" group-title="Entertainment",BollyFlix
+#EXTINF:-1 tvg-id="107" tvg-name="BollyFlix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0kbSu77xmfokCTIf2wSjz7OQdzmMKVvUYBQ&s" tvg-chno="107" group-title="Entertainment",BollyFlix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 
-#EXTINF:-1 tvg-id="109" tvg-name="AAKASH AATH" tvg-logo="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/aakash-aath-tv-logo.png" tvg-chno="109" group-title="Entertainment",AAKASH AATH
+#EXTINF:-1 tvg-id="108" tvg-name="AAKASH AATH" tvg-logo="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/aakash-aath-tv-logo.png" tvg-chno="108" group-title="Entertainment",AAKASH AATH
 https://cdn-4.pishow.tv/live/969/master.m3u8
 
-#EXTINF:-1 tvg-id="110" tvg-name="Zee 24 Ghanta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Zee_24_Ghanta_2025.svg/960px-Zee_24_Ghanta_2025.svg.png" tvg-chno="110" group-title="Entertainment",Zee 24 Ghanta
+#EXTINF:-1 tvg-id="109" tvg-name="Zee 24 Ghanta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Zee_24_Ghanta_2025.svg/960px-Zee_24_Ghanta_2025.svg.png" tvg-chno="109" group-title="Entertainment",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 
-#EXTINF:-1 tvg-id="111" tvg-name="Peace TV Bangla" tvg-logo="https://banner2.cleanpng.com/20180624/yux/kisspng-peace-tv-bangla-youtube-television-channel-5b2f5cc5f0f302.9663932315298305979869.jpg" tvg-chno="111" group-title="Entertainment",Peace TV Bangla
+#EXTINF:-1 tvg-id="110" tvg-name="Peace TV Bangla" tvg-logo="https://banner2.cleanpng.com/20180624/yux/kisspng-peace-tv-bangla-youtube-television-channel-5b2f5cc5f0f302.9663932315298305979869.jpg" tvg-chno="110" group-title="Entertainment",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
+
+
+
+
+
+
+
 
