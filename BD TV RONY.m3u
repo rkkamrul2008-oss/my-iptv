@@ -374,7 +374,7 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="BBV Cbeebies" tvg-logo="https://banner2.cleanpng.com/20181125/qpk/kisspng-cbeebies-logo-cbbc-television-show-5bfb0de9f02548.5792360815431797539837.jpg" group-title="Indian TV Channel",BBV Cbeebies
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
 
-#EXTINF:-1 tvg-id="55" tvg-name="BANGLA+ HD" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.c0yzwCCRdrOJQv3obqkNOQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Indian-Bangla",BANGLA+ HD
+#EXTINF:-1 tvg-id="55" tvg-name="BANGLA+ HD" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.c0yzwCCRdrOJQv3obqkNOQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Indian TV Channel",BANGLA+ HD
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 tvg-id="56" tvg-name="DD Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wJdNPAfkGDb7D52d7HRbJ5hLgCUB7Ss74mStkPgemQ&s" group-title="Indian-Bangla",DD Bangla
@@ -410,7 +410,7 @@ https://tvsen6.aynaott.com/ManoranjanTV/index.m3u8?e=1779674548&u=78be6644-0a65-
 #EXTINF:-1 tvg-id="66" tvg-name="News18bangla" tvg-logo="https://images.seeklogo.com/logo-png/60/1/news18-bangla-logo-png_seeklogo-606313.png" group-title="Indian TV Channel",News18bangla
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="67" tvg-name="Z Bangla" tvg-logo="https://images.seeklogo.com/logo-png/63/1/zee-bangla-logo-png_seeklogo-630697.png", group-title="Indian TV Channel,Z Bangla
+#EXTINF:-1 tvg-id="67" tvg-name="Zee Bangla" tvg-logo="https://images.seeklogo.com/logo-png/63/1/zee-bangla-logo-png_seeklogo-630697.png", group-title="Indian TV Channel",Zee Bangla
 https://edge2.roarzone.net:8447/roarzone/edge3/zee_bangla/index.m3u8?token=5f1e5fe2b7579d7737fb96564d2e595b01900a70-beb9e37b2697c7d178c262df955520e9-1779723318-1779712518
 
 #EXTINF:-1 tvg-id="68" tvg-name="B4U Music" tvg-logo="https://s3.aynaott.com/storage/75f6b460a3b05eb2614b04ab013710dc" tvg-chno="49" group-title="Indian TV Channel",B4U Music
