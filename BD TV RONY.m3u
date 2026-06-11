@@ -357,7 +357,8 @@ https://cdn-4.pishow.tv/live/1143/1143_2.m3u8
 https://tvsen3.aynascope.net/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="112" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian TV Channel",Star Jalsha HD Star Jalsha HD (Server-1)
-http://tvn1.chowdhury-shaheb.com/starjalsha/index.m3u8
+https://padmaonline.duckdns.org:8088/StarJalshaHD/index.m3u8
+#http://tvn1.chowdhury-shaheb.com/starjalsha/index.m3u8
 
 #EXTINF:-1 tvg-id="113" tvg-name="Enter 10 Bangla" tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian TV Channel",Enter 10 Bangla (Server-1)
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -411,7 +412,8 @@ https://tvsen6.aynaott.com/ManoranjanTV/index.m3u8?e=1779674548&u=78be6644-0a65-
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="130" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian TV Channel",Zee Bangla
-https://edge2.roarzone.net:8447/roarzone/edge3/zee_bangla/index.m3u8?token=5f1e5fe2b7579d7737fb96564d2e595b01900a70-beb9e37b2697c7d178c262df955520e9-1779723318-1779712518
+https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
+#https://edge2.roarzone.net:8447/roarzone/edge3/zee_bangla/index.m3u8?token=5f1e5fe2b7579d7737fb96564d2e595b01900a70-beb9e37b2697c7d178c262df955520e9-1779723318-1779712518
 
 #EXTINF:-1 tvg-id="131" tvg-name="B4U Music" tvg-logo="https://s3.aynaott.com/storage/75f6b460a3b05eb2614b04ab013710dc" group-title="Indian TV Channel",B4U Music
 https://tvsen6.aynaott.com/b4umusic/index.m3u8
@@ -447,7 +449,8 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 https://edge2.roarzone.net:8447/roarzone/edge3/toffee_movie/index.m3u8?
 
 #EXTINF:-1 tvg-id="142" tvg-name="Jalsha Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg" group-title="Indian TV Channel",Jalsha Movies
-http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+https://padmaonline.duckdns.org:8088/JalshaMoviesHD/index.m3u8
+#http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-name="Colors Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png" group-title="Indian TV Channel",Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
@@ -652,3 +655,6 @@ https://tvsen6.aynascope.net/9xjalwa/index.m3u8?e=1778174146&u=78be6644-0a65-48e
 
 #EXTINF:-1 tvg-id="210" tvg-name="9X Tashan" tvg-logo="https://s3.aynaott.com/storage/5d052254516639955d06182690d3fda2" group-title="Indian TV Channel",9X Tashan
 https://tvsen6.aynascope.net/9X_Tashan/index.m3u8?e=1778174147&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=775792b856ce8db382ff26fc3bfd0e8b
+
+#EXTINF:-1 tvg-id="211" tvg-name="Starplus HD" tvg-logo="https://www.seekpng.com/png/small/177-1778176_star-plus-hd-logo.png" group-title="Indian TV Channel",Starplus HD
+https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
