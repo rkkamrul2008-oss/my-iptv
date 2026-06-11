@@ -1,6 +1,6 @@
 #=================================
 # Developed By: Rony 
-# Last Updated: 2026-06-11 09:48 PM (BD Time)
+# Last Updated: 2026-05-13 09:45 PM (BD Time)
 # Disclaimer:
 # This tool does NOT host any content.
 # It aggregates publicly available data for informational purposes only.
@@ -335,7 +335,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="Probashi TV" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.L5y39PLc3ng8orh7y6LUAgHaGl?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="BD TV Channel",Probashi TV
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 
-#EXTINF:-1 tvg-id="105" tvg-name="Al Jazeera" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png" group-title="International News",Al Jazeera
+#EXTINF:-1 tvg-id="105" tvg-name="Al Jazeera" tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Al-Jazeera-Logo.png" group-title="NEWS INTERNASIONAL",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
 #EXTINF:-1 tvg-id="106" tvg-name="Asian TV" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.AyTmMyTx4aookLgBRPXEIAHaHa?r=0&pid=ImgDet&w=201&h=201&c=7&o=7&rm=3" group-title="Indian TV Channel",Asian TV (Server-1)
@@ -641,7 +641,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1 tvg-id="206" tvg-name="News Max 2" tvg-name="News Max 2" group-title="NEWS INTERNASIONAL",News Max 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-id="207" tvg-name="TRT WORLD" tvg-name="TRT WORLD" group-title="NEWS INTERNASIONAL TV",TRT WORLD
+#EXTINF:-1 tvg-id="207" tvg-name="TRT WORLD" tvg-name="TRT WORLD" group-title="NEWS INTERNASIONAL",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="208" tvg-name="NDTV NEWS" tvg-name="NDTV NEWS" group-title="NEWS INTERNASIONAL",NDTV NEWS5
