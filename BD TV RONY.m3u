@@ -72,7 +72,8 @@ https://tvsen6.aynaott.com/boishakhitv/index.m3u8?e=1779674544&u=78be6644-0a65-4
 #logo https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png
 
 #EXTINF:-1 tvg-id="20" tvg-name="Bangla TV" tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BD TV Channel",Bangla TV (Server-1)
-https://tvsen6.aynaott.com/banglatv/index.m3u8
+#https://tvsen6.aynaott.com/banglatv/index.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge3/bangla_tv/index.ll.m3u8?token=d8dd46cc15085cb319f7d83aa9d6cb3070206422-778e69d9c3f141b865b9a650cbc2557c-1781265321-1781254521
 
 #EXTINF:-1 tvg-id="21" tvg-name="Bangla TV" tvg-logo="https://s3.aynaott.com/storage/e42ecfa90e3d6b15bdb7fea5ef673864" group-title="BD TV Channel",Bangla TV (Server-2)
 https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=790a937aa87a3c21cb075546090320ea
@@ -161,7 +162,7 @@ https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1779674544&u=78be6644-0a6
 https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1778173999&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=acf6ac30f8871dbc2d4ed0d1b17eff81
 
 #EXTINF:-1 tvg-id="49" tvg-name="Ekhon TV" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc" group-title="BD TV Channel",Ekhon TV (server-1)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge3/ekhon_tv/index.ll.m3u8?token=8d3ad5750d759d223df03a808e9e26b7354e1d56-500ec68f87728a4080ea249b6db94b0e-1781265322-1781254522
 
 #EXTINF:-1 tvg-id="50" tvg-name="Ekhon TV" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc" group-title="BD TV Channel",Ekhon TV (server-2)
 https://tvsen6.aynaott.com/ekhontv/index.m3u8
@@ -199,8 +200,11 @@ https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1779674544&u=78be6644-0a65-
 #EXTINF:-1 tvg-id="61" tvg-name="G SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png" group-title="BD TV Channel",G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="62" tvg-name="Global TV" tvg-logo="https://s3.aynaott.com/storage/ffd7ba9b76ad555933f94bcb7ff26b44" group-title="BD TV Channel",Global TV
+#EXTINF:-1 tvg-id="62" tvg-name="Global TV" tvg-logo="https://s3.aynaott.com/storage/ffd7ba9b76ad555933f94bcb7ff26b44" group-title="BD TV Channel",Global TV (Server-1)
 https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cfd7b785ed7a466ef8aa415c993c6087
+
+#EXTINF:-1 tvg-id="62" tvg-name="Global TV" tvg-logo="https://s3.aynaott.com/storage/ffd7ba9b76ad555933f94bcb7ff26b44" group-title="BD TV Channel",Global TV (Server-2)
+https://edge2.roarzone.net:8447/roarzone/edge3/globaltv/index.ll.m3u8?token=c3884c9235b59167ba7ef39dbefa98da9b033055-75b86afb2edd1190b532e39ebca2da31-1781265322-1781254522
 
 #EXTINF:-1 tvg-id="63" tvg-name="Green TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="BD TV Channel",Green TV (Server-1)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
@@ -238,7 +242,7 @@ https://tvsen6.aynascope.net/mohonatv/index.m3u8?e=1778174004&u=78be6644-0a65-48
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
 
 #EXTINF:-1 tvg-id="74" tvg-name="MASSRANGA HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png/revision/latest?cb=20230512073857" group-title="BD TV Channel",MASSRANGA HD (server-2)
-#https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-1 tvg-id="75" tvg-name="MY TV HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BD TV Channel",MY TV HD (Server-1)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
@@ -286,8 +290,11 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png
 
-#EXTINF:-1 tvg-id="89" tvg-name="NEXUS TV" tvg-logo="https://s3.aynaott.com/storage/90635c3edf6e3c8dd92210b7248f1fa0" group-title="BD TV Channel",NEXUS TV
+#EXTINF:-1 tvg-id="89" tvg-name="NEXUS TV" tvg-logo="https://s3.aynaott.com/storage/90635c3edf6e3c8dd92210b7248f1fa0" group-title="BD TV Channel",NEXUS TV (Server-1)
 https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=42e83dee9b1fee977fcd7330a58caeb2
+
+#EXTINF:-1 tvg-id="89" tvg-name="NEXUS TV" tvg-logo="https://s3.aynaott.com/storage/90635c3edf6e3c8dd92210b7248f1fa0" group-title="BD TV Channel",NEXUS TV (Server-2)
+https://tvsen6.aynascope.net/nexustv/index.m3u8?e=1778174003&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f7d4d10a2706a92d97a5a10867370ac0
 
 #EXTINF:-1 tvg-id="90" tvg-name="RAJDHANI TV" tvg-logo="https://play-lh.googleusercontent.com/UEdWdgMTfmnggfGPRbQIY8EjkFbQmoSDgFqx1g1vjDHFnoP-1U6vDWSzWVUdKvY1mA=w240-h480-rw" group-title="BD TV Channel",RAJDHANI TV (Server-1)
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
@@ -312,7 +319,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-id="97" tvg-name="SOMOY TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BD TV Channel",SOMOY TV (Server-4)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge1/2/index.ll.m3u8?token=599a1b8303eac44f9c05c2110f3df4406c71f566-4851886697bb91886748c015b0e6b59c-1781265322-1781254522
 
 #EXTINF:-1 tvg-id="98" tvg-name="SATV" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3" group-title="BD TV Channel",SATV
 https://tvsen6.aynaott.com/satv/index.m3u8
@@ -357,8 +365,7 @@ https://cdn-4.pishow.tv/live/1143/1143_2.m3u8
 https://tvsen3.aynascope.net/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="112" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian TV Channel",Star Jalsha HD Star Jalsha HD (Server-1)
-https://padmaonline.duckdns.org:8088/StarJalshaHD/index.m3u8
-#http://tvn1.chowdhury-shaheb.com/starjalsha/index.m3u8
+http://tvn1.chowdhury-shaheb.com/starjalsha/index.m3u8
 
 #EXTINF:-1 tvg-id="113" tvg-name="Enter 10 Bangla" tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian TV Channel",Enter 10 Bangla (Server-1)
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -412,11 +419,10 @@ https://tvsen6.aynaott.com/ManoranjanTV/index.m3u8?e=1779674548&u=78be6644-0a65-
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="130" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian TV Channel",Zee Bangla
-https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
-#https://edge2.roarzone.net:8447/roarzone/edge3/zee_bangla/index.m3u8?token=5f1e5fe2b7579d7737fb96564d2e595b01900a70-beb9e37b2697c7d178c262df955520e9-1779723318-1779712518
+https://edge2.roarzone.net:8447/roarzone/edge3/zee_bangla/index.ll.m3u8?token=ab18fef8b4b4774f096cf83deb1d8dbb00463356-6493f18e84fe919af7a080a50923cac9-1781265322-1781254522
 
 #EXTINF:-1 tvg-id="131" tvg-name="B4U Music" tvg-logo="https://s3.aynaott.com/storage/75f6b460a3b05eb2614b04ab013710dc" group-title="Indian TV Channel",B4U Music
-https://tvsen6.aynaott.com/b4umusic/index.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge3/b4u_music/index.ll.m3u8?token=ec0cef87a2cc98994020a344e1c67f38334da2de-f4a37d82660a37e6d8918fffac7cc0d2-1781265322-1781254522
 
 #EXTINF:-1 tvg-id="132" tvg-name="HINDI HITS HD" tvg-logo="Hindi Hits" group-title="Indian TV Channel",HINDI HITS HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -449,8 +455,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 https://edge2.roarzone.net:8447/roarzone/edge3/toffee_movie/index.m3u8?
 
 #EXTINF:-1 tvg-id="142" tvg-name="Jalsha Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg" group-title="Indian TV Channel",Jalsha Movies
-https://padmaonline.duckdns.org:8088/JalshaMoviesHD/index.m3u8
-#http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-name="Colors Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png" group-title="Indian TV Channel",Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
@@ -475,6 +480,7 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="150" tvg-name="Goldmines Bollywood" tvg-logo="https://s3.aynaott.com/storage/e92e9e2fb70909f3dd30a8d89e644119" group-title="Indian TV Channel",Goldmines Bollywood
 https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
+#https://tvsen6.aynaott.com/GoldminesBollywood/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="151" tvg-name="Goldmines Movies" tvg-logo="https://s3.aynaott.com/storage/f8d9220406fa9ae79006914639f52e9b" group-title="Indian TV Channel",Goldmines Movies
 https://tvsen6.aynaott.com/GoldminesMovies/index.m3u8
@@ -579,7 +585,9 @@ http://185.98.211.8:81/sport2/index.m3u8?token=test
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
 #EXTINF:-1 tvg-id="185" tvg-name="Tsports HD" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.bESWAGbW0_4vxCRzeTalygHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="SPORTS Channel",Tsports HD
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+https://edge2.roarzone.net:8447/roarzone/edge1/1/index.ll.m3u8?token=80534139e647bfb0a80b516d92c0c02c1b8766c2-aeafc05ef118a24907c814c4b9495e60-1781265322-1781254522
+
 
 #EXTINF:-1 tvg-id="186" tvg-name="FIFA +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FIFA%2B.svg/960px-FIFA%2B.svg.png" group-title="SPORTS Channel",FIFA +
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
@@ -656,5 +664,108 @@ https://tvsen6.aynascope.net/9xjalwa/index.m3u8?e=1778174146&u=78be6644-0a65-48e
 #EXTINF:-1 tvg-id="210" tvg-name="9X Tashan" tvg-logo="https://s3.aynaott.com/storage/5d052254516639955d06182690d3fda2" group-title="Indian TV Channel",9X Tashan
 https://tvsen6.aynascope.net/9X_Tashan/index.m3u8?e=1778174147&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=775792b856ce8db382ff26fc3bfd0e8b
 
-#EXTINF:-1 tvg-id="211" tvg-name="Starplus HD" tvg-logo="https://www.seekpng.com/png/small/177-1778176_star-plus-hd-logo.png" group-title="Indian TV Channel",Starplus HD
-https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
+#EXTINF:-1 tvg-id="211" tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="sports",T SPORTS
+https://edge2.roarzone.net:8447/roarzone/edge2/tsports/index.ll.m3u8?token=2dbcfa549121c03a2f9cb013c54b88a36d09df48-7cab5a301655b7274175e5e83b0b9f70-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="212" tvg-logo="https://tvassets.roarzone.net/images/dd-sports.png" group-title="sports",DD SPORTS
+https://edge2.roarzone.net:8447/roarzone/edge5/dd-sports/index.ll.m3u8?token=8d75b4bf86fc6921a3e041687a22899d8d8d4759-0610bd9beeb552335edd9afb8c7e37ea-1781265323-1781254523
+
+#EXTINF:-1 tvg-id="213" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="SPORTS Channel",TNT 1
+https://cdn7.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=OgV1pxEt2Nl6lVqneIAY_Q&expires=1781259616
+
+#EXTINF:-1 tvg-id="214" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="SPORTS Channel",TNT 2
+https://cdn7.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=7xJGuaDWebxAWY_RsgWXLQ&expires=1781259616
+
+#EXTINF:-1 tvg-id="215" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="SPORTS Channel",TNT 3
+https://cdn5.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=twsz-UYn_RwQkpHVPRtGHg&expires=1781259616
+
+#EXTINF:-1 tvg-id="216" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="SPORTS Channel",TNT 4
+https://cdn2.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=0QSZTs-neDfnTAtnQ3k3EA&expires=1781259616
+
+#EXTINF:-1 tvg-id="217" tvg-logo="https://tvassets.roarzone.net/images/goal-tv.png" group-title="SPORTS Channel",GOAL TV
+https://edge2.roarzone.net:8447/roarzone/edge5/goal-tv/index.ll.m3u8?token=2a66057ebad33f52fcf350727b6dfbb1c6d83e16-fd331c53b6d1446896f55ca33b9052df-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="218" tvg-logo="https://tvassets.roarzone.net/images/sonyentertainmnt_hd.png" group-title="Indian TV Channel",SONY ENTERTAINMENT TELEVISION HD
+https://edge2.roarzone.net:8447/roarzone/edge3/sonyentertainmnt_hd/index.ll.m3u8?token=a41cef198e02a57d80732c360028c640698a7362-c5043f8244b8c5cb7f31ae1c50ff04ed-1781265321-1781254521
+
+#EXTINF:-1 tvg-id="219" tvg-logo="https://tvassets.roarzone.net/images/sonymax.png" group-title="Indian TV Channel",SONY MAX
+https://edge2.roarzone.net:8447/roarzone/edge3/sony_max/index.ll.m3u8?token=ac0fd000aa96b2e35f1fcf54ff3366862e7d4882-9252ed57557d5c7d6fb2e6a5a8e78793-1781265323-1781254523
+
+#EXTINF:-1 tvg-id="220" tvg-logo="https://tvassets.roarzone.net/images/sonymaxhd.png" group-title="Indian TV Channel",SONY MAX HD
+https://edge2.roarzone.net:8447/roarzone/edge3/sony_max_hd/index.ll.m3u8?token=0a4fd1ee5cfacbd3724759c939f38a2b3cf5e51e-5695ab39a6169f5d770158b770ee7a3c-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="221" tvg-logo="https://tvassets.roarzone.net/images/sonymax2.png" group-title="Indian TV Channel",SONY MAX 2
+https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/index.ll.m3u8?token=ff6af83e2d0ad5f23bb4fe03d3670040b3022930-872eb317e2bd5c02e1f0d256ab35241b-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="222" tvg-logo="https://tvassets.roarzone.net/images/sonysab_hd.png" group-title="Indian TV Channel",SONY SAB HD
+https://edge2.roarzone.net:8447/roarzone/edge3/sonysab_hd/index.ll.m3u8?token=f486a8f6c2cc36a3ce5fe0f64a7a609216e6518c-4f3fdfe8fde77fc008d9532f0b32b0cb-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="223" tvg-logo="https://tvassets.roarzone.net/images/r-plus.png" group-title="Indian TV Channel",STAR PLUS
+https://edge2.roarzone.net:8447/roarzone/edge5/r-plus/index.ll.m3u8?token=f3c1869d3c1d20ec0a729d545c2cf43b6326b4e8-0e54b64f0f8ade71d26799e6ab0207b0-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="224" tvg-logo="https://tvassets.roarzone.net/images/94.png" group-title="Indian TV Channel",ZEE BOLLYWOOD
+https://edge2.roarzone.net:8447/roarzone/edge3/zee_bollywood/index.ll.m3u8?token=4cd2f291f08269c6b42a950a19461e87b3a1d4cd-7d0993d78cfd3fe7f7930dcb01fb4af6-1781265321-1781254521
+
+#EXTINF:-1 tvg-id="225" tvg-logo="https://tvassets.roarzone.net/images/zee_anmol.png" group-title="Indian TV Channel",ZEE ANMOL
+https://edge2.roarzone.net:8447/roarzone/edge3/zee_anmol/index.ll.m3u8?token=a17a2b3b2dd5f3d36f00a3eb8cfcc686087e41fb-4153feac00cdc5bfe270539cb2a576ab-1781265323-1781254523
+
+#EXTINF:-1 tvg-id="226" tvg-logo="https://tvassets.roarzone.net/images/90.png" group-title="Indian TV Channel",ZEE ACTION
+https://edge2.roarzone.net:8447/roarzone/edge3/zee_action/index.ll.m3u8?token=c09709706db3074faa5276c3e84e8ef1fdcad7e2-faaca672c427890d2a3f41ba5bac83f7-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="227"tvg-logo="https://tvassets.roarzone.net/images/zee_cinema_hd.png" group-title="Indian TV Channel",ZEE CINEMA HD
+https://edge2.roarzone.net:8447/roarzone/edge3/zee_cinema_hd/index.ll.m3u8?token=dba4f16080acf86e76a41971ff7af6dbe265dd44-b88f2ac79561d44378fbe0c9a7b2f417-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="228" tvg-logo="https://tvassets.roarzone.net/images/zee_tv_hd.png" group-title="Indian TV Channel",ZEE TV HD
+https://edge2.roarzone.net:8447/roarzone/edge3/zee_tv_hd/index.ll.m3u8?token=e238431b4f2e999ac4f3a9b6a9da8107bf7d9d83-68c4e6e98125aeabae0f6da05314e003-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="229" tvg-logo="https://tvassets.roarzone.net/images/andpicture_hd.png" group-title="Indian TV Channel",& PICTURES HD
+https://edge2.roarzone.net:8447/roarzone/edge3/andpicture_hd/index.ll.m3u8?token=3c3c68b956948bc8454282f8b28975bdd454f72c-224f864bce3c643d73b425239827a107-1781265323-1781254523
+
+#EXTINF:-1 tvg-id="230" tvg-logo="https://tvassets.roarzone.net/images/and_tv_hd.png" group-title="Indian TV Channel",&TV HD
+https://edge2.roarzone.net:8447/roarzone/edge3/and_tv_hd/index.ll.m3u8?token=b5c3722b7cc0a7ecd399180553166feb159f193a-9007d7bec746dd1a37353d430924c208-1781265323-1781254523
+
+#EXTINF:-1 tvg-id="231" tvg-logo="https://tvassets.roarzone.net/images/hummasala.png" group-title="Indian TV Channel",HUM MASALA
+https://edge2.roarzone.net:8447/roarzone/edge3/hum_masala/index.ll.m3u8?token=ac3b85f15008e1cd259c1bba8daf22330c3bafbb-ad00eafc2b6a843433a7ae0f3ccca504-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="232" tvg-logo="https://tvassets.roarzone.net/images/hum_sitaray.png" group-title="Indian TV Channel",HUM SITARAY
+https://edge2.roarzone.net:8447/roarzone/edge3/hum_sitaray/index.ll.m3u8?token=4556d38def05057bc980a326754362742d0aec19-08c9702446505327a94db316f08e0641-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="233" tvg-logo="https://tvassets.roarzone.net/images/humtv.png" group-title="Indian TV Channel",HUM TV
+https://edge2.roarzone.net:8447/roarzone/edge3/hum_tv/index.ll.m3u8?token=94bc852028f6192fcb74e491c556b1f9fed178af-0f66e97b9feec9b7b4c8c7d9e24872a4-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="234" tvg-logo="https://tvassets.roarzone.net/images/b4u_movies.png" group-title="Indian TV Channel",B4U MOVIES APAC
+https://edge2.roarzone.net:8447/roarzone/edge3/b4u_movies/index.ll.m3u8?token=6c7a627033981301f2506471360f5b284f21ed58-8f1df190af1d318df702af1d6d170a69-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="235" tvg-logo="https://tvassets.roarzone.net/images/shemaroo-tv.png" group-title="Indian TV Channel",SHEMAROO TV
+https://edge2.roarzone.net:8447/roarzone/edge5/shemaroo-tv/index.ll.m3u8?token=3f60b1002d60d05b54d592eba06eac4be1199338-5815be7d5232b80d5939f25873c3f12d-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="236" tvg-logo="https://tvassets.roarzone.net/images/93.png" group-title="Indian TV Channel",ZING
+https://edge2.roarzone.net:8447/roarzone/edge3/zing_sd/index.ll.m3u8?token=64fff93725dce2c19caf0d3b38212099485eeb3b-a87607c3b4dfdc5096ddad21ad3e9e45-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="237" tvg-logo="https://tvassets.roarzone.net/images/sonypix_hd.png" group-title="Indian TV Channel",SONY PIX HD
+https://edge2.roarzone.net:8447/roarzone/edge3/sonypix_hd/index.ll.m3u8?token=4bae84d846dd237861a235dc3099bade5d0eda1c-1d77f687362f3b389b9c77823c1d8588-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="238" tvg-logo="https://tvassets.roarzone.net/images/69.png" group-title="Indian TV Channel",ZEE CAFE HD
+https://edge2.roarzone.net:8447/roarzone/edge3/zee_cafe_hd/index.ll.m3u8?token=6f753b0d0bb1771b4886ee3c08c59bf1f1992351-ec4a1632a8d33e1dee543979c2d13459-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="239" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/bafa3370-8092-4974-8924-8c6bf4627bad.png" group-title="Indian TV Channel", B4U Kadak
+https://tvsen6.aynaott.com/B4U_Kadak/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="240" tvg-logo="https://tvassets.roarzone.net/images/movie-sphere.png" group-title="Movies",MOVIE SPHERE
+https://edge2.roarzone.net:8447/roarzone/edge5/movie-sphere/index.ll.m3u8?token=8276fe90c01ccc15c52cceaf576c2702ab558dd2-4c4d18c3918b82be1bcbc666e351ba96-1781265323-1781254523
+
+#EXTINF:-1 tvg-id="241" tvg-logo="https://tvassets.roarzone.net/images/hindi-movie-classic-24.png" group-title="Movies",HINDI MOVIE CLASSIC 24
+https://edge2.roarzone.net:8447/roarzone/edge5/hindi-movie-classic-24/index.ll.m3u8?token=3f7e167d22cffd2402735b9076fb4f865c89e978-f4678d6fbcbfc00ef6d3253d0fb6e7fd-1781265322-1781254522
+
+#EXTINF:-1 tvg-id="242" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/c637b921-8577-4487-a3c8-9469cbd5dd4e.png" group-title="Movies", Goldmines
+https://tvsen6.aynaott.com/Goldmines/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="243" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/80cda149-7530-47bb-83c7-7a1923d9bcc1.png" group-title="Movies", Goldmimes Movies
+https://tvsen6.aynaott.com/GoldminesMovies/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="244" tvg-name="MK Six" group-title="Indian TV Channel",MK Six
+https://cdn-3.pishow.tv/live/1253/master.m3u8
+
+#EXTINF:-1 tvg-id="245" tvg-name="R Plus" group-title="Indian TV Channel",R Plus
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+
