@@ -322,10 +322,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
 https://edge2.roarzone.net:8447/roarzone/edge1/2/index.ll.m3u8?token=599a1b8303eac44f9c05c2110f3df4406c71f566-4851886697bb91886748c015b0e6b59c-1781265322-1781254522
 
-#EXTM3U
-#EXTINF:-1 tvg-id="97-1" tvg-id="SomoyTV" tvg-name="Somoy TV" tvg-logo="https://www.somoynews.tv/assets/images/logo.png" group-title="Bangla",Somoy TV (Server-5)
-https://youtube-live-stream-url.vercel.app/live/ITx_k7uNFP4.m3u8
-
 #EXTINF:-1 tvg-id="98" tvg-name="SATV" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3" group-title="BD TV Channel",SATV
 https://tvsen6.aynaott.com/satv/index.m3u8
 
