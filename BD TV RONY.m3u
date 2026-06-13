@@ -1,6 +1,6 @@
 #=================================
 # Developed By: Rony 
-# Last Updated: 2026-05-13 09:45 PM (BD Time)
+# Last Updated: 2026-06-13 03:45 PM (BD Time)
 # Disclaimer:
 # This tool does NOT host any content.
 # It aggregates publicly available data for informational purposes only.
@@ -10,7 +10,8 @@
 #EXTM3U8
 
 #EXTINF:-1 tvg-id="1" tvg-name="Ananda TV" tvg-logo="https://tvassets.roarzone.net/images/ananda-tv.png" group-title="BD TV Channel",Ananda TV
-https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7e7d299bebf2d424eed3ab0ec3de49b2
+#https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7e7d299bebf2d424eed3ab0ec3de49b2
+https://banglavu.top/live/shamim77/shamim77/36.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png" group-title="BD TV Channel",ATN News (Server-1)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
@@ -33,7 +34,9 @@ https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779674544&u=78be6644-0a65-48e
 #logo  https://stremmy.com/wp-content/uploads/2025/03/2-1.png 
 
 #EXTINF:-1 tvg-id="8" tvg-name="BTV HD " tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png" group-title="BD TV Channel",BTV HD (Server-1)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+https://stream.midiplexhd.com/sky14/tracks-v1a1/mono.m3u8
+http://172.17.50.112:84/ant1004/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="BTV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="BD TV Channel",BTV HD (Server-2)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
@@ -46,7 +49,7 @@ https://tvsen6.aynaott.com/btv_world/index.m3u8?e=1779674544&u=78be6644-0a65-48e
 https://tvsen6.aynaott.com/btvctg/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=318c1fcf09dd995209da6834793766ad
 
 #EXTINF:-1 tvg-id="12" tvg-name="Bijoy TV" tvg-logo="https://s3.aynaott.com/storage/f23d6f82c1a16458fe0e4c6f11b8fd87" group-title="BD TV Channel",Bijoy TV (Server-1)
-https://tvsen6.aynaott.com/bijoytv/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b0fb4672de09c92e5bf23dcc8d2da952
+https://banglavu.top/live/shamim77/shamim77/28.m3u8
 
 #EXTINF:-1 tvg-id="13" tvg-name="Bijoy TV" tvg-logo="https://s3.aynaott.com/storage/f23d6f82c1a16458fe0e4c6f11b8fd87" group-title="BD TV Channel",Bijoy TV (Server-2)
 https://tvsen6.aynaott.com/bijoytv/index.m3u8
@@ -153,7 +156,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://tvsen6.aynaott.com/deshtv/index.m3u8
 
 #EXTINF:-1 tvg-id="46" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BD TV Channel",Duronto TV (Server-1)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8
+http://10.99.99.99:8082/DURANTA.TV.HD/tracks-v1a1/mono.m3u8?token=3f863a8f1d6b73731dfb3d4b447d61e540b9326d-e916110fd49b09eb8347fa384227801b-1781342791-1781331991
 
 #EXTINF:-1 tvg-id="47" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BD TV Channel",Duronto TV (Server-2)
 https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9ae4e9c2a90ab17dfe2d1d3d7af3c1fb
@@ -162,7 +166,7 @@ https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1779674544&u=78be6644-0a6
 https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1778173999&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=acf6ac30f8871dbc2d4ed0d1b17eff81
 
 #EXTINF:-1 tvg-id="49" tvg-name="Ekhon TV" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc" group-title="BD TV Channel",Ekhon TV (server-1)
-https://edge2.roarzone.net:8447/roarzone/edge3/ekhon_tv/index.ll.m3u8?token=8d3ad5750d759d223df03a808e9e26b7354e1d56-500ec68f87728a4080ea249b6db94b0e-1781265322-1781254522
+https://banglavu.top/live/shamim77/shamim77/46.m3u8
 
 #EXTINF:-1 tvg-id="50" tvg-name="Ekhon TV" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc" group-title="BD TV Channel",Ekhon TV (server-2)
 https://tvsen6.aynaott.com/ekhontv/index.m3u8
@@ -186,7 +190,8 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://tvsen6.aynaott.com/etv/index.m3u8
 
 #EXTINF:-1 tvg-id="57" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="BD TV Channel",GAZI TV (Server-1)
-https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
+#https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
+http://10.99.99.99:8082/GAZI.TV.HD/tracks-v1a1/mono.m3u8?token=32aef9561d7b22e6c82a47a684a77c4bfac7fbb7-295a8ba048545a5be49474a9722c3447-1781342401-1781331601
 
 #EXTINF:-1 tvg-id="58" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="BD TV Channel",GAZI TV (Server-2)
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
@@ -231,8 +236,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="JAMUNA TV LIVE" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BD TV Channel",JAMUNA TV LIVE (server-2)
 https://tvsen6.aynaott.com/jamunatv/index.m3u8
 
-#EXTINF:-1 tvg-id="71" tvg-name="Mohona TV" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BD TV Channel",Mohona TV
-https://tvsen6.aynaott.com/mohonatv/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=358251caa4b8560f877b90263117248e
+#EXTINF:-1 tvg-id="71" tvg-name="Mohona TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="BD TV Channel",Mohona TV
+https://banglavu.top/live/shamim77/shamim77/39.m3u8
 
 #EXTINF:-1 tvg-id="72" tvg-name="Mohona TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="BD TV Channel",Mohona TV
 https://tvsen6.aynascope.net/mohonatv/index.m3u8?e=1778174004&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d8bd0434904911f1c18dc444969b658e
@@ -287,8 +292,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="88" tvg-name="Nagorik TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Logo_of_Nagorik_TV.svg/250px-Logo_of_Nagorik_TV.svg.png" group-title="BD TV Channel",Nagorik TV
-http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+#http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png
+http://10.99.99.99:8082/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=5fdf59ff12fb7adb7dc9f9b85547135bf43cb216-2b54a600390b57e824aa555ab564bad8-1781342917-1781332117
 
 #EXTINF:-1 tvg-id="89" tvg-name="NEXUS TV" tvg-logo="https://s3.aynaott.com/storage/90635c3edf6e3c8dd92210b7248f1fa0" group-title="BD TV Channel",NEXUS TV (Server-1)
 https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=42e83dee9b1fee977fcd7330a58caeb2
@@ -310,7 +316,8 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81
 #https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png
 
 #EXTINF:-1 tvg-id="94" tvg-name="SOMOY TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BD TV Channel",SOMOY TV (Server-1)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+http://10.99.99.99:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=6cdb7a7a941b1d1c9aa3bf38dee74604d73d174c-7beef5dbcb302eb6966506eef9c068df-1781342455-1781331655
 
 #EXTINF:-1 tvg-id="95" tvg-name="SOMOY TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BD TV Channel",SOMOY TV (Server-2)
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
@@ -362,10 +369,10 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 https://cdn-4.pishow.tv/live/1143/1143_2.m3u8
 
 #EXTINF:-1 tvg-id="111" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian TV Channel",Star Jalsha HD (Server-1)
-https://tvsen3.aynascope.net/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+https://banglavu.top/live/shamim77/shamim77/14.m3u8
 
-#EXTINF:-1 tvg-id="112" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian TV Channel",Star Jalsha HD Star Jalsha HD (Server-1)
-http://tvn1.chowdhury-shaheb.com/starjalsha/index.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="Star Jalsha HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian TV Channel",Star Jalsha HD Star Jalsha HD (Server-2)
+https://banglavu.top/live/shamim77/shamim77/13.m3u8
 
 #EXTINF:-1 tvg-id="113" tvg-name="Enter 10 Bangla" tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" group-title="Indian TV Channel",Enter 10 Bangla (Server-1)
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -455,7 +462,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 https://edge2.roarzone.net:8447/roarzone/edge3/toffee_movie/index.m3u8?
 
 #EXTINF:-1 tvg-id="142" tvg-name="Jalsha Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg" group-title="Indian TV Channel",Jalsha Movies
-http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+https://banglavu.top/live/shamim77/shamim77/25.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-name="Colors Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png" group-title="Indian TV Channel",Colors Bangla Cinema
 http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
@@ -586,7 +593,9 @@ http://212.102.34.8:9080/AndFlixHD/video.m3u8
 
 #EXTINF:-1 tvg-id="185" tvg-name="Tsports HD" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.bESWAGbW0_4vxCRzeTalygHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="SPORTS Channel",Tsports HD
 #http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-https://edge2.roarzone.net:8447/roarzone/edge1/1/index.ll.m3u8?token=80534139e647bfb0a80b516d92c0c02c1b8766c2-aeafc05ef118a24907c814c4b9495e60-1781265322-1781254522
+#https://edge2.roarzone.net:8447/roarzone/edge1/1/index.ll.m3u8?token=80534139e647bfb0a80b516d92c0c02c1b8766c2-aeafc05ef118a24907c814c4b9495e60-1781265322-1781254522
+https://stream.midiplexhd.com/sky12/tracks-v1a1/mono.m3u8
+http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="186" tvg-name="FIFA +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FIFA%2B.svg/960px-FIFA%2B.svg.png" group-title="SPORTS Channel",FIFA +
@@ -768,4 +777,29 @@ https://cdn-3.pishow.tv/live/1253/master.m3u8
 
 #EXTINF:-1 tvg-id="245" tvg-name="R Plus" group-title="Indian TV Channel",R Plus
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="246" tvg-name="Ananda TV" tvg-logo="https://tvassets.roarzone.net/images/ananda-tv.png" group-title="BD TV Channel",Ananda TV
+https://banglavu.top/live/shamim77/shamim77/36.m3u8
+
+#EXTINF:-1 tvg-id="247" tvg-name="BTV HD " tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png" group-title="BD TV Channel",BTV HD (Server-1)
+http://172.17.50.112:84/ant1004/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="248" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian TV Channel",Zee Bangla
+https://banglavu.top/live/shamim77/shamim77/15.m3u8
+
+#EXTINF:-1 tvg-id="249" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian TV Channel",Zee Bangla
+https://banglavu.top/live/shamim77/shamim77/16.m3u8
+
+#EXTINF:-1 tvg-id="250" tvg-name="Colors Bangla" tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg", group-title="Indian TV Channel",Colors Bangla
+https://banglavu.top/live/shamim77/shamim77/24.m3u8
+
+
+
+
+
+
+
 
