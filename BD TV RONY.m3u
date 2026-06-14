@@ -1,6 +1,6 @@
 #=================================
 # Developed By: Rony 
-# Last Updated: 2026-06-13 03:45 PM (BD Time)
+# Last Updated: 2026-05-13 09:45 PM (BD Time)
 # Disclaimer:
 # This tool does NOT host any content.
 # It aggregates publicly available data for informational purposes only.
@@ -35,7 +35,7 @@ https://tvsen5.aynaott.com/atnbangla/index.m3u8?e=1779674544&u=78be6644-0a65-48e
 
 #EXTINF:-1 tvg-id="8" tvg-name="BTV HD " tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png" group-title="BD TV Channel",BTV HD (Server-1)
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-https://stream.midiplexhd.com/sky14/tracks-v1a1/mono.m3u8
+#https://stream.midiplexhd.com/sky14/tracks-v1a1/mono.m3u8
 http://172.17.50.112:84/ant1004/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="BTV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="BD TV Channel",BTV HD (Server-2)
@@ -594,7 +594,7 @@ http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-id="185" tvg-name="Tsports HD" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.bESWAGbW0_4vxCRzeTalygHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="SPORTS Channel",Tsports HD
 #http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #https://edge2.roarzone.net:8447/roarzone/edge1/1/index.ll.m3u8?token=80534139e647bfb0a80b516d92c0c02c1b8766c2-aeafc05ef118a24907c814c4b9495e60-1781265322-1781254522
-https://stream.midiplexhd.com/sky12/tracks-v1a1/mono.m3u8
+#https://stream.midiplexhd.com/sky12/tracks-v1a1/mono.m3u8
 http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
 
 
@@ -674,7 +674,7 @@ https://tvsen6.aynascope.net/9xjalwa/index.m3u8?e=1778174146&u=78be6644-0a65-48e
 https://tvsen6.aynascope.net/9X_Tashan/index.m3u8?e=1778174147&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=775792b856ce8db382ff26fc3bfd0e8b
 
 #EXTINF:-1 tvg-id="211" tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="SPORTS Channel",T SPORTS
-https://edge2.roarzone.net:8447/roarzone/edge2/tsports/index.ll.m3u8?token=2dbcfa549121c03a2f9cb013c54b88a36d09df48-7cab5a301655b7274175e5e83b0b9f70-1781265322-1781254522
+http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="212" tvg-logo="https://tvassets.roarzone.net/images/dd-sports.png" group-title="SPORTS Channel",DD SPORTS
 https://edge2.roarzone.net:8447/roarzone/edge5/dd-sports/index.ll.m3u8?token=8d75b4bf86fc6921a3e041687a22899d8d8d4759-0610bd9beeb552335edd9afb8c7e37ea-1781265323-1781254523
@@ -779,26 +779,18 @@ https://cdn-3.pishow.tv/live/1253/master.m3u8
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="246" tvg-name="Ananda TV" tvg-logo="https://tvassets.roarzone.net/images/ananda-tv.png" group-title="BD TV Channel",Ananda TV
 https://banglavu.top/live/shamim77/shamim77/36.m3u8
 
-#EXTINF:-1 tvg-id="247" tvg-name="BTV HD " tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png" group-title="BD TV Channel",BTV HD (Server-1)
-http://172.17.50.112:84/ant1004/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="248" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian TV Channel",Zee Bangla
+#EXTINF:-1 tvg-id="247" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian TV Channel",Zee Bangla
 https://banglavu.top/live/shamim77/shamim77/15.m3u8
 
-#EXTINF:-1 tvg-id="249" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian TV Channel",Zee Bangla
+#EXTINF:-1 tvg-id="248" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian TV Channel",Zee Bangla
 https://banglavu.top/live/shamim77/shamim77/16.m3u8
 
-#EXTINF:-1 tvg-id="250" tvg-name="Colors Bangla" tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg", group-title="Indian TV Channel",Colors Bangla
+#EXTINF:-1 tvg-id="249" tvg-name="Colors Bangla" tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg", group-title="Indian TV Channel",Colors Bangla
 https://banglavu.top/live/shamim77/shamim77/24.m3u8
-
-
-
-
 
 
 
