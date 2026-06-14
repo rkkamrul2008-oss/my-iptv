@@ -1,6 +1,6 @@
 #=================================
 # Developed By: Rony 
-# Last Updated: 2026-05-13 09:45 PM (BD Time)
+# Last Updated: 2026-05-13 06:27 PM (BD Time)
 # Disclaimer:
 # This tool does NOT host any content.
 # It aggregates publicly available data for informational purposes only.
@@ -111,7 +111,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://tvsen6.aynaott.com/deshtv/index.m3u8
 
 #EXTINF:-1 tvg-id="33" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BD TV Channel",Duronto TV (Server-1)
-http://10.99.99.99:8082/DURANTA.TV.HD/tracks-v1a1/mono.m3u8?token=02e99bb49acb65ae9b9fe2d68a7eeea5cf93ea8f-0bbb0e00576e82156741f715deb14617-1781428321-1781417521
+http://10.99.99.99:8082/DURANTA.TV.HD/tracks-v1a1/mono.m3u8?token=03a0289eddb001fc2895e2208df1ab1a268fa139-909bc881f5c2ac7907ac6b3e7be463b5-1781450207-1781439407
 
 #EXTINF:-1 tvg-id="34" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BD TV Channel",Duronto TV (Server-2)
 https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9ae4e9c2a90ab17dfe2d1d3d7af3c1fb
@@ -261,6 +261,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="81" tvg-name="Probashi TV" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.L5y39PLc3ng8orh7y6LUAgHaGl?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="BD TV Channel",Probashi TV
 http://158.69.24.53:8080/probashi_tv/index.m3u8
+
 
 # Indian Chennel
 
@@ -563,3 +564,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-id="182" tvg-name="Uniques HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" group-title="Movies",Uniques HD
 https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
+
+#EXTINF:-1 tvg-id="183" tvg-name="SONY YAY" tvg-logo="http://10.99.99.99/assets/images/SONY%20YAY1745045046.png" group-title="Kids",SONY YAY
+http://10.99.99.99:8082/SONY.YAY/tracks-v1a1/mono.m3u8?token=29baa4b41f21b40c2fb1de3429fdbc53e7437d6e-11eabad1e1367be6aa20aee70da26f40-1781450266-1781439466
