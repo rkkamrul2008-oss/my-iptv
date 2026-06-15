@@ -239,7 +239,7 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1779674544&u=78be6644-0a65-48ec-81
 #https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png
 
 #EXTINF:-1 tvg-id="74" tvg-name="SOMOY TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BD TV Channel",SOMOY TV (Server-1)
-http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 tvg-id="75" tvg-name="SOMOY TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BD TV Channel",SOMOY TV (Server-2)
 http://cdn.moviemazic.xyz:8083/SomoyTv/tracks-v1a1/mono.m3u8
