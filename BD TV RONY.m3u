@@ -17,7 +17,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png
 
 #EXTINF:-1 tvg-id="3" tvg-name="ATN Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BD TV Channel",ATN Bangla (Server-1)
-http://10.99.99.99:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=53a6d37871a6cd734d2b8ae095505ebe0328cec4-7f4aa5fc4825189e863b8383764f35ba-1781426348-1781415548
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 #https://s6.gifyu.com/images/image27cfa7002786c232.png
 
 #EXTINF:-1 tvg-id="4" tvg-name="BTV HD " tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png" group-title="BD TV Channel",BTV HD (Server-1)
