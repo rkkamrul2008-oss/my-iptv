@@ -1,6 +1,6 @@
 #=================================
 # Developed By: Rony 
-# Last Updated: 2026-07-11 02:28 AM (BD Time)
+# Last Updated: 2026-07-11 08:32 AM (BD Time)
 # Disclaimer:
 # This tool does NOT host any content.
 # It aggregates publicly available data for informational purposes only. 
@@ -194,6 +194,10 @@ http://cdn.moviemazic.xyz:8083/ETV/tracks-v1a1/mono.m3u8?token=745c55a6c2ce92a85
 #EXTVLCOPT:network-caching=1000
 http://fastshare1.com:80/live/25711345/late8airline/767.ts
 
+#EXTINF:-1 tvg-id="45" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="BD TV Channel",GAZI TV (Server-2)
+#EXTVLCOPT:network-caching=1000
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="46" tvg-name="G SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png" group-title="BD TV Channel",G Series Drama
 #EXTVLCOPT:network-caching=1000
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
@@ -250,10 +254,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="MY TV HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BD TV Channel",MY TV HD (Server-1)
 #EXTVLCOPT:network-caching=1000
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
-#https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png
-#https://s3.aynaott.com/storage/c5b2c623863fbe4033d59d52ff7371ac"
 
-#EXTINF:-1 tvg-id="60" tvg-name="MY TV HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BD TV Channel",MY TV HD (Server-2)
+#EXTINF:-1 tvg-id="59" tvg-name="MY TV HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BD TV Channel",MY TV HD (Server-2)
+#EXTVLCOPT:network-caching=1000
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="60" tvg-name="MY TV HD" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BD TV Channel",MY TV HD (Server-3)
 #EXTVLCOPT:network-caching=1000
 http://fastshare1.com:80/live/25711345/late8airline/398.ts
 
@@ -608,6 +614,9 @@ http://cdn.moviemazic.xyz:8083/TSportsHD/tracks-v1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://fastshare1.com:80/live/25711345/late8airline/52500.ts
 
+#EXTINF:-1 tvg-id="147" tvg-name="Tsports Live" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.bESWAGbW0_4vxCRzeTalygHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="SPORTS Channel",Tsports Live #EXTVLCOPT:network-caching=1000
+http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
+
 #EXTINF:-1 tvg-id="148" tvg-name="TNT 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="SPORTS Channel",TNT 1
 #EXTVLCOPT:network-caching=1000
 https://banglavu.top/live/shamim77/shamim77/60.m3u8
@@ -668,21 +677,39 @@ http://10.99.99.99:8082/ZOOM.MUSIC/tracks-v1a1/mono.m3u8?token=2a3a8d167ecc8f264
 #EXTVLCOPT:network-caching=1000
 https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
 
-#EXTINF:-1 tvg-id="163" tvg-name="Cartoon Network" tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-id="163" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png" group-title="Kids",ZB Cartoon (1080p)
+#EXTVLCOPT:network-caching=1000
+https://server.zillarbarta.com/zbcatun/video.m3u8
+
+#EXTINF:-1 tvg-id="164" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png" group-title="Movies",ZB Cinema (720p)
+#EXTVLCOPT:network-caching=1000
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="165" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbmusic.png" group-title="Indian TV Channel",ZB Music (720p)
+#EXTVLCOPT:network-caching=1000
+https://server.zillarbarta.com/zbmusic/index.m3u8
+
+
+#EXTINF:-1 tvg-id="166" tvg-name="Cartoon Network" tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb" group-title="Kids",Cartoon Network
 #EXTVLCOPT:network-caching=1000
 http://cdn.moviemazic.xyz:8083/Feedget/CartoonNetwork_6/tracks-v1a1/mono.m3u8?token=b102a61775e732bb20f86da270343c3603ff18d5-cfff933609bf57e7e932c382bcccfaa2-1781445056-1781434256
 
-#EXTINF:-1 tvg-id="164" tvg-name="Discovery Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfpJkRaMBK9Wwg-wCuYwIhBfmPv2AZVFfAoQ&s" group-title="Kids",Discovery Kids
+#EXTINF:-1 tvg-id="167" tvg-name="Discovery Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfpJkRaMBK9Wwg-wCuYwIhBfmPv2AZVFfAoQ&s" group-title="Kids",Discovery Kids
 #EXTVLCOPT:network-caching=1000
 https://live20.bozztv.com/giatvplayout7/giatv-209633/index.m3u8
 
-#EXTINF:-1 tvg-id="165" tvg-name="Funny Junior HD Kids" tvg-logo="" group-title="Kids",Funny Junior HD Kids
+#EXTINF:-1 tvg-id="168" tvg-name="Funny Junior HD Kids" tvg-logo="" group-title="Kids",Funny Junior HD Kids
 #EXTVLCOPT:network-caching=1000
 https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
 
-#EXTINF:-1 tvg-id="166" tvg-name="Jungle Book Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCNBK4ej_KZeYUfd9F5Mjs7ZRaDFUBIbQsQ&s" group-title="Kids",Jungle Book Kids
+#EXTINF:-1 tvg-id="169" tvg-name="Jungle Book Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsCNBK4ej_KZeYUfd9F5Mjs7ZRaDFUBIbQsQ&s" group-title="Kids",Jungle Book Kids
 #EXTVLCOPT:network-caching=1000
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
+#EXTINF:-1 tvg-id="170" tvg-name="EPIC" tvg-logo="" group-title="Indian TV Channel",EPIC
+#EXTVLCOPT:network-caching=1000
+https://epiconvh.akamaized.net/live/nazara/master.m3u8
 
+#EXTINF:-1 tvg-id="171" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_LIFE/images/LOGO_HD/image.png" group-title="Indian TV Channel",ETV Life (480p)
+https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
 
