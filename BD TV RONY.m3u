@@ -1,9 +1,9 @@
 #=================================
 # Developed By: Rony 
-# Last Updated: 2026-05-13 06:27 PM (BD Time)
+# Last Updated: 2026-07-11 08:32 AM (BD Time)
 # Disclaimer:
 # This tool does NOT host any content.
-# It aggregates publicly available data for informational purposes only.
+# It aggregates publicly available data for informational purposes only. 
 # For any issues or concerns, please contact the developer.
 #==================================
 
@@ -12,15 +12,15 @@
 #EXTINF:-1 tvg-id="1" tvg-name="Ananda TV" tvg-logo="https://tvassets.roarzone.net/images/ananda-tv.png" group-title="BD TV Channel",Ananda TV
 https://banglavu.top/live/shamim77/shamim77/36.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png" group-title="BD TV Channel",ATN News (Server-1)
+#EXTINF:-1 tvg-id="2" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png" group-title="BD TV Channel",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png
+#https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png
 
-#EXTINF:-1 tvg-id="3" tvg-name="ATN Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BD TV Channel",ATN Bangla (Server-1)
+#EXTINF:-1 tvg-id="3" tvg-name="ATN Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BD TV Channel",ATN Bangla
 https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 #https://s6.gifyu.com/images/image27cfa7002786c232.png
 
-#EXTINF:-1 tvg-id="4" tvg-name="BTV HD " tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png" group-title="BD TV Channel",BTV HD (Server-1)
+#EXTINF:-1 tvg-id="4" tvg-name="BTV HD " tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png" group-title="BD TV Channel",BTV HD
 http://172.17.50.112:84/ant1004/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="BTV World" tvg-logo="https://s3.aynaott.com/storage/b30147b97d86754e4b97fc2989628391" group-title="BD TV Channel",BTV World
@@ -70,8 +70,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="CHANNEL I" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="BD TV Channel",CHANNEL I (Server-2)
 https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
 
-#EXTINF:-1 tvg-id="20" tvg-name="CHANNEL I" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="BD TV Channel",CHANNEL I (Server-3)
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CHANNEL I" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="BD TV Channel",CHANNEL I (Server-3)
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 tvg-id="21" tvg-name="Channel-16" tvg-logo="https://imgpile.com/images/58YDwk.jpg" group-title="BD TV Channel",Channel-16
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
@@ -299,7 +299,7 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="93" tvg-name="Colors Bangla Cinema" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png" group-title="Indian TV Channel",Colors Bangla Cinema
-http://10.99.99.99:8082/COLORS.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=cb2e23f27e0d99f40482738a3e63f941519116fe-3fe9cf0c80883af0a641a639f427f27c-1781444835-1781434035
+http://fastshare1.com:80/live/25711345/late8airline/271038.ts
 
 #EXTINF:-1 tvg-id="94" tvg-name="Colors Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/4ac8cc41d31d22a1f7863b8ec54dbce6.png", group-title="Indian TV Channel",Colors Bangla
 https://banglavu.top/live/shamim77/shamim77/24.m3u8
@@ -567,3 +567,12 @@ https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
 
 #EXTINF:-1 tvg-id="183" tvg-name="SONY YAY" tvg-logo="http://10.99.99.99/assets/images/SONY%20YAY1745045046.png" group-title="Kids",SONY YAY
 http://10.99.99.99:8082/SONY.YAY/tracks-v1a1/mono.m3u8?token=29baa4b41f21b40c2fb1de3429fdbc53e7437d6e-11eabad1e1367be6aa20aee70da26f40-1781450266-1781439466
+
+#EXTINF:-1 tvg-id="184" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Indian TV Channel",Star Jalsha HD Star Jalsha HD
+http://fastshare1.com:80/live/25711345/late8airline/425.ts
+
+#EXTINF:-1 tvg-id="185" tvg-name="SOMOY TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BD TV Channel",SOMOY TV (Server-1)
+http://fastshare1.com:80/live/25711345/late8airline/422.ts
+
+#EXTINF:-1 tvg-id="186" tvg-name="Tsports HD" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.bESWAGbW0_4vxCRzeTalygHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="SPORTS Channel",Tsports HD-3
+http://fastshare1.com:80/live/25711345/late8airline/52500.ts
