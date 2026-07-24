@@ -160,7 +160,7 @@ https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1778173999&u=78be6644-0
 
 #EXTINF:-1 tvg-id="37" tvg-name="Ekhon TV" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc" group-title="BD TV Channel",Ekhon TV (server-1)
 #EXTVLCOPT:network-caching=1000
-https://banglavu.top/live/shamim77/shamim77/46.m3u8
+https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="38" tvg-name="Ekhon TV" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc" group-title="BD TV Channel",Ekhon TV (server-2)
 #EXTVLCOPT:network-caching=1000
