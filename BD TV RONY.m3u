@@ -619,7 +619,8 @@ http://cdn.moviemazic.xyz:8083/TSportsHD/tracks-v1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://fastshare1.com:80/live/25711345/late8airline/52500.ts
 
-#EXTINF:-1 tvg-id="150" tvg-name="Tsports Live" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.bESWAGbW0_4vxCRzeTalygHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="SPORTS Channel",Tsports Live #EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="150" tvg-name="Tsports Live" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.bESWAGbW0_4vxCRzeTalygHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" group-title="SPORTS Channel",Tsports Live 
+#EXTVLCOPT:network-caching=1000
 http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 tvg-id="151" tvg-name="TNT 1" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png" group-title="SPORTS Channel",TNT 1
