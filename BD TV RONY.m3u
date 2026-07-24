@@ -164,7 +164,7 @@ https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="38" tvg-name="Ekhon TV" tvg-logo="https://s3.aynaott.com/storage/274c30c492e8795c8011d0129113f4bc" group-title="BD TV Channel",Ekhon TV (server-2)
 #EXTVLCOPT:network-caching=1000
-https://banglavu.top/live/shamim77/shamim77/46.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="39" tvg-name="Ekattor TV" tvg-logo="https://e7.pngegg.com/pngimages/861/476/png-clipart-bangladesh-ekattor-tv-television-channel-atn-news-others-miscellaneous-television.png" group-title="BD TV Channel",Ekattor TV (Server-1)
 #EXTVLCOPT:network-caching=1000
