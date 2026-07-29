@@ -11,7 +11,7 @@
 
 #EXTINF:-1 tvg-id="1" tvg-name="Ananda TV" tvg-logo="https://tvassets.roarzone.net/images/ananda-tv.png" group-title="BD TV Channel",Ananda TV
 #EXTVLCOPT:network-caching=1000
-https://banglavu.top/live/shamim77/shamim77/36.m3u8
+https://playztv-apps.pages.dev/ananda-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="ATN News" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png" group-title="BD TV Channel",ATN News
 #EXTVLCOPT:network-caching=1000
@@ -45,7 +45,7 @@ https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-name="Bijoy TV" tvg-logo="https://s3.aynaott.com/storage/f23d6f82c1a16458fe0e4c6f11b8fd87" group-title="BD TV Channel",Bijoy TV (Server-2)
 #EXTVLCOPT:network-caching=1000
-https://tvsen6.aynaott.com/bijoytv/index.m3u8
+https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
 #logo https://tvassets.roarzone.net/images/bijoy-tv.png
 
 #EXTINF:-1 tvg-id="10" tvg-name="BANGLAVISION" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BD TV Channel",BANGLAVISION (Server-1)
@@ -55,7 +55,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-name="BOISHAKHI TV" tvg-logo="https://image.pngaaa.com/565/2833565-middle.png" group-title="BD TV Channel",BOISHAKHI TV-1
 #EXTVLCOPT:network-caching=1000
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="12" tvg-name="BOISHAKHI TV" tvg-logo="https://image.pngaaa.com/565/2833565-middle.png" group-title="BD TV Channel",BOISHAKHI TV-2
 #EXTVLCOPT:network-caching=1000
@@ -148,7 +148,7 @@ https://tvsen6.aynaott.com/deshtv/index.m3u8
 
 #EXTINF:-1 tvg-id="34" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BD TV Channel",Duronto TV (Server-1)
 #EXTVLCOPT:network-caching=1000
-http://fastshare1.com:80/live/25711345/late8airline/433.ts
+https://playztv-apps.pages.dev/duronto-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="35" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BD TV Channel",Duronto TV (Server-2)
 #EXTVLCOPT:network-caching=1000
@@ -379,7 +379,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
 #EXTINF:-1 tvg-id="91" tvg-name="Asian TV" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.AyTmMyTx4aookLgBRPXEIAHaHa?r=0&pid=ImgDet&w=201&h=201&c=7&o=7&rm=3" group-title="Indian TV Channel",Asian TV
 #EXTVLCOPT:network-caching=1000
-http://fastshare1.com:80/live/25711345/late8airline/430.ts
+https://playztv-apps.pages.dev/asian-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="92" tvg-name="Amar Bangla" tvg-logo="https://m.media-amazon.com/images/I/71Et8Ve0gGL.png" group-title="Indian TV Channel",Amar Bangla
 #EXTVLCOPT:network-caching=1000
