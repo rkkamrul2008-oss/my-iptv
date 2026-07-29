@@ -463,11 +463,11 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 #EXTINF:-1 tvg-id="112" tvg-name="Goldmines Movies" tvg-logo="https://s3.aynaott.com/storage/f8d9220406fa9ae79006914639f52e9b" group-title="Indian TV Channel",Goldmines Movies
 #EXTVLCOPT:network-caching=1000
-https://cdn-2.pishow.tv/live/1459/master.m3u8
+https://cdn-2.pishow.tv/live/1461/master.m3u8
 
 #EXTINF:-1 tvg-id="113" tvg-name="Goldmines" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/c637b921-8577-4487-a3c8-9469cbd5dd4e.png" group-title="Movies", Goldmines
 #EXTVLCOPT:network-caching=1000
-https://cdn-2.pishow.tv/live/1460/master.m3u8
+https://cdn-2.pishow.tv/live/1459/master.m3u8
 
 #EXTINF:-1 tvg-id="114" tvg-name="HINDI HITS HD" tvg-logo="Hindi Hits" group-title="Indian TV Channel",HINDI HITS HD
 #EXTVLCOPT:network-caching=1000
@@ -531,7 +531,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 
 #EXTINF:-1 tvg-id="129" tvg-name="Sananda TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sananda_TV.jpg" group-title="Indian TV Channel",Sananda TV
 #EXTVLCOPT:network-caching=1000
-http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
+https://live.sanandatelevision.in/sananda/index.m3u8
 
 #EXTINF:-1 tvg-id="130" tvg-name="Sangeet Bangla" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b8/Sangeet_Bangla_logo_%282009%29.png" group-title="Indian TV Channel",Sangeet Bangla
 #EXTVLCOPT:network-caching=1000
@@ -587,11 +587,11 @@ http://10.99.99.99:8082/SONY.ENT.HD/tracks-v1a1/mono.m3u8?token=55d6d3e57374944d
 
 #EXTINF:-1 tvg-id="143" tvg-name="SONY MAX" tvg-logo="https://tvassets.roarzone.net/images/sonymax.png" group-title="Indian TV Channel",SONY MAX
 #EXTVLCOPT:network-caching=1000
-https://banglavu.top/live/shamim77/shamim77/78.m3u8
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sony_max&e=.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-name="SONY SAB HD" tvg-logo="https://tvassets.roarzone.net/images/sonysab_hd.png" group-title="Indian TV Channel",SONY SAB HD
 #EXTVLCOPT:network-caching=1000
-https://banglavu.top/live/shamim77/shamim77/90.m3u8
+https://mflixott.com/tv/toffee-by-maruf/live.php?id=sonymax_2&e=.m3u8
 
 #EXTINF:-1 tvg-id="145" tvg-name="Superrix HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" group-title="Movies",Superrix HD
 #EXTVLCOPT:network-caching=1000
@@ -638,7 +638,7 @@ https://banglavu.top/live/shamim77/shamim77/15.m3u8
 
 #EXTINF:-1 tvg-id="156" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian TV Channel",Zee Bangla HD
 #EXTVLCOPT:network-caching=1000
-https://banglavu.top/live/shamim77/shamim77/16.m3u8
+https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="157" tvg-name="ZEE BOLLY WOOD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg" group-title="Indian TV Channel",ZEE BOLLY WOOD HD
 #EXTVLCOPT:network-caching=1000
@@ -719,3 +719,15 @@ https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 #EXTINF:-1 tvg-id="176" tvg-name="Sony Aath" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/3bc4288071a532cad74816bab70acd05.png" group-title="Indian TV Channel",Sony Aath 
 #EXTVLCOPT:network-caching=1000
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/4083.ts
+
+#EXTINF:-1 tvg-id="177" tvg-name="Zee Bangla Sonar" TV" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.UO1ShE8o7yqW9mkFDPJkDQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Indian TV Channel",Zee Bangla Sonar
+#EXTVLCOPT:network-caching=1000
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
+
+#EXTINF:-1 tvg-id="178" tvg-name="Zee Bangla Sonar" TV" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.UO1ShE8o7yqW9mkFDPJkDQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Indian TV Channel",Zee Bangla Sonar
+#EXTVLCOPT:network-caching=1000
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="179" tvg-name="Hindi Classic" tvg-logo="" group-title="Movies",Hindi Classic
+#EXTVLCOPT:network-caching=1000
+https://vods2.aynaott.com/hindimovies/index.m3u8
