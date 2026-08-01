@@ -633,17 +633,17 @@ https://banglavu.top/live/shamim77/shamim77/64.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="155" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian TV Channel",Zee Bangla
+#EXTINF:-1 tvg-id="155" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg" group-title="Indian TV Channel",Zee Bangla
 #EXTVLCOPT:network-caching=1000
 http://103.159.180.34:5001/live/625.m3u8
 
-#EXTINF:-1 tvg-id="156" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian TV Channel",Zee Bangla HD
+#EXTINF:-1 tvg-id="156" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg" group-title="Indian TV Channel",Zee Bangla HD
 #EXTVLCOPT:network-caching=1000
 https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="157" tvg-name="ZEE BOLLY WOOD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Zee_bollywood_21AUg2018.jpg" group-title="Indian TV Channel",ZEE BOLLY WOOD HD
 #EXTVLCOPT:network-caching=1000
-https://banglavu.top/live/shamim77/shamim77/85.m3u8
+https://stream.ottplus.bd/live/zee_bollywood_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="158" tvg-name="ZEE ANMOL" tvg-logo="https://tvassets.roarzone.net/images/zee_anmol.png" group-title="Indian TV Channel",ZEE ANMOL
 #EXTVLCOPT:network-caching=1000
