@@ -491,7 +491,7 @@ http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=hbo_2&format=.m3u8
 
 #EXTINF:-1 tvg-id="119" tvg-name="Joo Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png" group-title="Indian TV Channel",Joo Music
 #EXTVLCOPT:network-caching=1000
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="120" tvg-name="Khushboo Bangla" tvg-logo="https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44" group-title="Indian TV Channel",Khushboo Bangla
 #EXTVLCOPT:network-caching=1000
