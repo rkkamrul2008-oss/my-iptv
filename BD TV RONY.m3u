@@ -722,7 +722,7 @@ http://mysave23.com/live/PeH5kPWFfG/infamous7funny/4083.ts
 
 #EXTINF:-1 tvg-id="177" tvg-name="Zee Bangla Sonar TV" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.UO1ShE8o7yqW9mkFDPJkDQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Indian TV Channel",Zee Bangla Sonar
 #EXTVLCOPT:network-caching=1000
-http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
+http://103.159.180.34:5001/live/3476.m3u8
 
 #EXTINF:-1 tvg-id="178" tvg-name="Zee Bangla Sonar TV" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.UO1ShE8o7yqW9mkFDPJkDQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Indian TV Channel",Zee Bangla Sonar
 #EXTVLCOPT:network-caching=1000
