@@ -421,9 +421,9 @@ https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://fastshare1.com:80/live/25711345/late8airline/271038.ts
 
-#EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/4ac8cc41d31d22a1f7863b8ec54dbce6.png", group-title="Indian TV Channel",Colors Bangla
+#EXTINF:-1 tvg-id="102" tvg-name="Colors Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/4ac8cc41d31d22a1f7863b8ec54dbce6.png" group-title="Indian TV Channel",Colors Bangla
 #EXTVLCOPT:network-caching=1000
-https://banglavu.top/live/shamim77/shamim77/24.m3u8
+http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 
 #EXTINF:-1 tvg-id="103" tvg-name="Cowboy Movie Channel" tvg-logo="https://s3.aynaott.com/storage/cb1ab052f5b733bbf600a7a8e3a1164b" group-title="Movies",Cowboy Movie Channel
 #EXTVLCOPT:network-caching=1000
@@ -431,7 +431,7 @@ https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_
 
 #EXTINF:-1 tvg-id="104" tvg-name="Cineedge HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="Movies",Cineedge HD
 #EXTVLCOPT:network-caching=1000
-https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
+https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8  
 
 #EXTINF:-1 tvg-id="105" tvg-name="Dangal 2" tvg-logo="https://s3.aynaott.com/storage/67b12df982bbb07b6a5af35d691dbb54" group-title="Indian TV Channel",Dangal 2
 #EXTVLCOPT:network-caching=1000
