@@ -7,7 +7,7 @@
 # For any issues or concerns, please contact the developer.
 #==================================
 
-#EXTM3U8
+#EXTM3U8  
 
 #EXTINF:-1 tvg-id="1" tvg-name="Ananda TV" tvg-logo="https://tvassets.roarzone.net/images/ananda-tv.png" group-title="BD TV Channel",Ananda TV
 #EXTVLCOPT:network-caching=1000
