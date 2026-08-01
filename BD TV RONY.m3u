@@ -519,7 +519,7 @@ https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8
 
 #EXTINF:-1 tvg-id="126" tvg-name="& PICTURES HD" tvg-logo="https://tvassets.roarzone.net/images/andpicture_hd.png" group-title="Indian TV Channel",& PICTURES HD
 #EXTVLCOPT:network-caching=1000
-https://banglavu.top/live/shamim77/shamim77/74.m3u8
+https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="127" tvg-name="Rongeen TV" tvg-logo="https://tvassets.roarzone.net/images/rongeen-tv.png" group-title="Indian TV Channel",Rongeen TV (Server-1)
 #EXTVLCOPT:network-caching=1000
@@ -579,11 +579,12 @@ http://cdn.moviemazic.xyz:8083/Star-Gold/tracks-v1a1/mono.m3u8?token=1f1da8975dc
 
 #EXTINF:-1 tvg-id="141" tvg-name="SONY PIX HD" tvg-logo="https://tvassets.roarzone.net/images/sonypix_hd.png" group-title="Indian TV Channel",SONY PIX HD
 #EXTVLCOPT:network-caching=1000
-http://cdn.moviemazic.xyz:8083/Feedget/SonyPIXHD/tracks-v1a1/mono.m3u8?token=e0b34c593ecd3d0353953b92fe5dc7ccb7831a90-ddf7409e8580fb156f4f53a90d967728-1781447615-1781436815
+# Reserb http://cdn.moviemazic.xyz:8083/Feedget/SonyPIXHD/tracks-v1a1/mono.m3u8?token=e0b34c593ecd3d0353953b92fe5dc7ccb7831a90-ddf7409e8580fb156f4f53a90d967728-1781447615-1781436815
+https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="142" tvg-name="SONY ENTERTAINMENT TELEVISION HD" tvg-logo="https://tvassets.roarzone.net/images/sonyentertainmnt_hd.png" group-title="Indian TV Channel",SONY ENTERTAINMENT TELEVISION HD
 #EXTVLCOPT:network-caching=1000
-http://10.99.99.99:8082/SONY.ENT.HD/tracks-v1a1/mono.m3u8?token=55d6d3e57374944de1a28e9dfce129098ace0080-1b15735994a3055f561de3dc142ceeb1-1781447734-1781436934
+https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-name="SONY MAX" tvg-logo="https://tvassets.roarzone.net/images/sonymax.png" group-title="Indian TV Channel",SONY MAX
 #EXTVLCOPT:network-caching=1000
