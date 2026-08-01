@@ -555,7 +555,7 @@ http://fastshare1.com:80/live/25711345/late8airline/425.ts
 
 #EXTINF:-1 tvg-id="135" tvg-name="Jalsha Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalshamovieshd.jpg" group-title="Indian TV Channel",Jalsha Movies
 #EXTVLCOPT:network-caching=1000
-https://banglavu.top/live/shamim77/shamim77/25.m3u8
+http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 
 #EXTINF:-1 tvg-id="136" tvg-name="Star Movie HD" tvg-logo="https://images.seeklogo.com/logo-png/26/1/star-movies-logo-png_seeklogo-268247.png" group-title="Indian TV Channel",Star Movie HD
 #EXTVLCOPT:network-caching=1000
@@ -634,7 +634,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 
 #EXTINF:-1 tvg-id="155" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian TV Channel",Zee Bangla
 #EXTVLCOPT:network-caching=1000
-https://banglavu.top/live/shamim77/shamim77/15.m3u8
+http://103.159.180.34:5001/live/625.m3u8
 
 #EXTINF:-1 tvg-id="156" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg", group-title="Indian TV Channel",Zee Bangla HD
 #EXTVLCOPT:network-caching=1000
@@ -720,11 +720,11 @@ https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/4083.ts
 
-#EXTINF:-1 tvg-id="177" tvg-name="Zee Bangla Sonar" TV" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.UO1ShE8o7yqW9mkFDPJkDQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Indian TV Channel",Zee Bangla Sonar
+#EXTINF:-1 tvg-id="177" tvg-name="Zee Bangla Sonar TV" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.UO1ShE8o7yqW9mkFDPJkDQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Indian TV Channel",Zee Bangla Sonar
 #EXTVLCOPT:network-caching=1000
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
+http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 
-#EXTINF:-1 tvg-id="178" tvg-name="Zee Bangla Sonar" TV" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.UO1ShE8o7yqW9mkFDPJkDQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Indian TV Channel",Zee Bangla Sonar
+#EXTINF:-1 tvg-id="178" tvg-name="Zee Bangla Sonar TV" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.UO1ShE8o7yqW9mkFDPJkDQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" group-title="Indian TV Channel",Zee Bangla Sonar
 #EXTVLCOPT:network-caching=1000
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
 
