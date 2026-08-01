@@ -29,7 +29,7 @@ http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="BTV Chattogram" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png" group-title="BD TV Channel",BTV Chattogram
 #EXTVLCOPT:network-caching=1000
-http://fastshare1.com:80/live/25711345/late8airline/3818.ts
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_ctg&format=.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-name="BTV World" tvg-logo="https://s3.aynaott.com/storage/b30147b97d86754e4b97fc2989628391" group-title="BD TV Channel",BTV World
 #EXTVLCOPT:network-caching=1000
@@ -240,7 +240,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-id="57" tvg-name="Mohona TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="BD TV Channel",Mohona TV
 #EXTVLCOPT:network-caching=1000
-http://fastshare1.com:80/live/25711345/late8airline/397.ts
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=mohona_tv&format=.m3u8
 #https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92
 
 #EXTINF:-1 tvg-id="58" tvg-name="MASSRANGA HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png/revision/latest?cb=20230512073857" group-title="BD TV Channel",MASSRANGA HD (server-1)
@@ -351,7 +351,7 @@ https://livecdn-bostahls.global.ssl.fastly.net/rongo/rongo-somoy/index.m3u8
 
 #EXTINF:-1 tvg-id="84" tvg-name="SATV" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3" group-title="BD TV Channel",SATV
 #EXTVLCOPT:network-caching=1000
-https://banglavu.top/live/shamim77/shamim77/31.m3u8
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sa_tv&format=.m3u8
 
 #EXTINF:-1 tvg-id="85" tvg-name="Star News" tvg-logo="https://tvassets.roarzone.net/images/star-news.png" group-title="BD TV Channel",Star News (Server-1)
 #EXTVLCOPT:network-caching=1000
