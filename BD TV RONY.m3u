@@ -50,7 +50,7 @@ https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-name="BANGLAVISION" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BD TV Channel",BANGLAVISION (Server-1)
 #EXTVLCOPT:network-caching=1000
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+https://tvsen5.aynaott.com/banglavision/index.m3u8?e=1784102560&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ddcd867c4b5ff4b8041ee4e513423464
 #https://s4.gifyu.com/images/image5c0bfa6b281be803.png
 
 #EXTINF:-1 tvg-id="11" tvg-name="BOISHAKHI TV" tvg-logo="https://image.pngaaa.com/565/2833565-middle.png" group-title="BD TV Channel",BOISHAKHI TV-1
@@ -87,7 +87,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-vid
 
 #EXTINF:-1 tvg-id="19" tvg-name="CHANNEL I" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="BD TV Channel",CHANNEL I (Server-1)
 #EXTVLCOPT:network-caching=1000
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8?e=1784102558&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=1b6ef0107d8addd36bcab3ca1175877a
 
 #EXTINF:-1 tvg-id="20" tvg-name="CHANNEL I" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="BD TV Channel",CHANNEL I (Server-2)
 #EXTVLCOPT:network-caching=1000
@@ -103,7 +103,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-id="23" tvg-name="Channel S" tvg-logo="https://s3.aynaott.com/storage/342b1a51814ed9946fe36ac4999d82a2" group-title="BD TV Channel",Channel S
 #EXTVLCOPT:network-caching=1000
-https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24" tvg-name="DEPTO TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg" group-title="BD TV Channel",DEPTO TV (Server-1)
 #EXTVLCOPT:network-caching=1000
@@ -202,9 +202,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTVLCOPT:network-caching=1000
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="48" tvg-name="Global TV" tvg-logo="https://s3.aynaott.com/storage/ffd7ba9b76ad555933f94bcb7ff26b44" group-title="BD TV Channel",Global TV (Server-1)
-#EXTVLCOPT:network-caching=1000
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="49" tvg-name="Green TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="BD TV Channel",Green TV (Server-1)
 #EXTVLCOPT:network-caching=1000
@@ -228,7 +225,7 @@ https://edge2.roarzone.net:8447/roarzone/edge3/islamic_tv/index.m3u8?token=3474e
 
 #EXTINF:-1 tvg-id="54" tvg-name="JAMUNA TV LIVE" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BD TV Channel",JAMUNA TV LIVE (server-1)
 #EXTVLCOPT:network-caching=1000
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8?e=1784102531&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d17e86aa2e6745043e84e0547d4fb69a
 
 #EXTINF:-1 tvg-id="55" tvg-name="JAMUNA TV LIVE" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BD TV Channel",JAMUNA TV LIVE (server-2)
 #EXTVLCOPT:network-caching=1000
@@ -240,7 +237,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-id="57" tvg-name="Mohona TV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png" group-title="BD TV Channel",Mohona TV
 #EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=mohona_tv&format=.m3u8
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8?e=1784102571&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=8b1f5c5cb085762a45bd961bb900f98a
 #https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92
 
 #EXTINF:-1 tvg-id="58" tvg-name="MASSRANGA HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png/revision/latest?cb=20230512073857" group-title="BD TV Channel",MASSRANGA HD (server-1)
@@ -286,7 +283,7 @@ https://tvsen7.aynaott.com/deen/index.m3u8?e=1779674549&u=78be6644-0a65-48ec-81a
 
 #EXTINF:-1 tvg-id="68" tvg-name="NEWS 24 LIVE" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png" group-title="BD TV Channel",NEWS24 LIVE
 #EXTVLCOPT:network-caching=1000
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8?e=1784102534&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ff40b53535a0e90b724ac25ff41c590c
 
 #EXTINF:-1 tvg-id="69" tvg-name="NEWS 24 LIVE" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png" group-title="BD TV Channel",NEWS24 LIVE
 #EXTVLCOPT:network-caching=1000
@@ -294,7 +291,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-vid
 
 #EXTINF:-1 tvg-id="70" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" group-title="BD TV Channel",NTV (server-1)
 #EXTVLCOPT:network-caching=1000
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8?e=1784102559&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d26add1c49d848c9199b708427134979
 
 #EXTINF:-1 tvg-id="71" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png" group-title="BD TV Channel",NTV (server-2)
 #EXTVLCOPT:network-caching=1000
@@ -351,7 +348,7 @@ http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="84" tvg-name="SATV" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3" group-title="BD TV Channel",SATV
 #EXTVLCOPT:network-caching=1000
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sa_tv&format=.m3u8
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8?e=1784102564&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=ed25297bf867135d78cb6ad3e1c2b495
 
 #EXTINF:-1 tvg-id="85" tvg-name="Star News" tvg-logo="https://tvassets.roarzone.net/images/star-news.png" group-title="BD TV Channel",Star News (Server-1)
 #EXTVLCOPT:network-caching=1000
