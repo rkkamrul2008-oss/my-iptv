@@ -1,6 +1,6 @@
 #=================================
 # Developed By: Rony 
-# Last Updated: 2026-09-04 12:30 PM (BD Time)
+# Last Updated: 2026-09-04 12:52 PM (BD Time)
 # Disclaimer:
 # This tool does NOT host any content.
 # It aggregates publicly available data for informational purposes only. 
@@ -348,11 +348,11 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTVLCOPT:network-caching=1000
 https://cdn-4.pishow.tv/live/969/master.m3u8
 
-#EXTINF:-1 tvg-id="83" tvg-name="Action Hollywood Movies" tvg-logo="https://s3.aynaott.com/storage/baef6dd41c3ee6fabbb59bb8403cc1eb" group-title="Indian TV Channel",Action Hollywood Movies (Server-1)
+#EXTINF:-1 tvg-id="83" tvg-name="Action Hollywood Movies" tvg-logo="https://s3.aynaott.com/storage/baef6dd41c3ee6fabbb59bb8403cc1eb" group-title="Movies",Action Hollywood Movies (Server-1)
 #EXTVLCOPT:network-caching=1000
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="84" tvg-name="Action Hollywood Movies" tvg-logo="https://s3.aynaott.com/storage/baef6dd41c3ee6fabbb59bb8403cc1eb" group-title="Indian TV Channel",Action Hollywood Movies (Server-2)
+#EXTINF:-1 tvg-id="84" tvg-name="Action Hollywood Movies" tvg-logo="https://s3.aynaott.com/storage/baef6dd41c3ee6fabbb59bb8403cc1eb" group-title="Movies",Action Hollywood Movies (Server-2)
 #EXTVLCOPT:network-caching=1000
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
@@ -360,15 +360,15 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTVLCOPT:network-caching=1000
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="86" tvg-name="B4U Movie" tvg-logo="https://s3.aynaott.com/storage/75f6b460a3b05eb2614b04ab013710dc" group-title="Indian TV Channel",B4U Movie
+#EXTINF:-1 tvg-id="86" tvg-name="B4U Movie" tvg-logo="https://s3.aynaott.com/storage/75f6b460a3b05eb2614b04ab013710dc" group-title="Movies",B4U Movie
 #EXTVLCOPT:network-caching=1000
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="87" tvg-name="BollyFlix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0kbSu77xmfokCTIf2wSjz7OQdzmMKVvUYBQ&s" group-title="Indian TV Channel",BollyFlix
+#EXTINF:-1 tvg-id="87" tvg-name="BollyFlix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0kbSu77xmfokCTIf2wSjz7OQdzmMKVvUYBQ&s" group-title="Movies",BollyFlix
 #EXTVLCOPT:network-caching=1000
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 
-#EXTINF:-1 tvg-id="88" tvg-name="Bhojpuri Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Bhojpuri_Cinema_logo.png" group-title="Indian TV Channel",Bhojpuri Cinema
+#EXTINF:-1 tvg-id="88" tvg-name="Bhojpuri Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Bhojpuri_Cinema_logo.png" group-title="Movies",Bhojpuri Cinema
 #EXTVLCOPT:network-caching=1000
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
@@ -388,11 +388,11 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTVLCOPT:network-caching=1000
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="93" tvg-name="Goldmines Bollywood" tvg-logo="https://s3.aynaott.com/storage/e92e9e2fb70909f3dd30a8d89e644119" group-title="Indian TV Channel",Goldmines Bollywood
+#EXTINF:-1 tvg-id="93" tvg-name="Goldmines Bollywood" tvg-logo="https://s3.aynaott.com/storage/e92e9e2fb70909f3dd30a8d89e644119" group-title="Movies",Goldmines Bollywood
 #EXTVLCOPT:network-caching=1000
 https://tvsen6.aynaott.com/55xNrLdf/index.m3u8?e=1784102593&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=bdf9e0d52656d2f220337254a719a208
 
-#EXTINF:-1 tvg-id="94" tvg-name="Goldmines Movies" tvg-logo="https://s3.aynaott.com/storage/f8d9220406fa9ae79006914639f52e9b" group-title="Indian TV Channel",Goldmines Movies
+#EXTINF:-1 tvg-id="94" tvg-name="Goldmines Movies" tvg-logo="https://s3.aynaott.com/storage/f8d9220406fa9ae79006914639f52e9b" group-title="Movies",Goldmines Movies
 #EXTVLCOPT:network-caching=1000
 https://tvsen6.aynaott.com/FsD43fcG/index.m3u8?e=1784102593&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=5da1770fba3540984206a834fafb382a
 
@@ -400,7 +400,7 @@ https://tvsen6.aynaott.com/FsD43fcG/index.m3u8?e=1784102593&u=ee5437a7-c16b-4700
 #EXTVLCOPT:network-caching=1000
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-#EXTINF:-1 tvg-id="96" tvg-name="Hindi Movie Classic 24" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Indian TV Channel",Hindi Movie Classic 24
+#EXTINF:-1 tvg-id="96" tvg-name="Hindi Movie Classic 24" tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="Movies",Hindi Movie Classic 24
 #EXTVLCOPT:network-caching=1000
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
@@ -416,7 +416,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="100" tvg-name="& PICTURES HD" tvg-logo="https://tvassets.roarzone.net/images/andpicture_hd.png" group-title="Indian TV Channel",& PICTURES HD
+#EXTINF:-1 tvg-id="100" tvg-name="& PICTURES HD" tvg-logo="https://tvassets.roarzone.net/images/andpicture_hd.png" group-title="Movies",& PICTURES HD
 #EXTVLCOPT:network-caching=1000
 https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
 
